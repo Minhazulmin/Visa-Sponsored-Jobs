@@ -11,12 +11,14 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - name: Check out this repo
-      uses: actions/checkout@v2
+      uses: actions/checkout@v3
       with:
         fetch-depth: 0
+
     - name: Fetch latest data
-      run: |-
+      run: |
         curl https://visajobs.xyz/db.json | jq . > jobList.json
+
     - name: Parse jobList.json into table
       id: parse-json
       run: |
@@ -30,8 +32,6 @@ jobs:
         💬 **Join our Telegram channel**: [visajobs Telegram](https://t.me/visa_sponsored_jobs)
 
         We encourage the community to engage, share, and support each other in the job search process. If you find this resource helpful, please star the repository and spread the word!
-
-    
 
         EOF
 
@@ -54,14 +54,19 @@ jobs:
 
         *Note: This list is automatically updated daily. Check back often for new opportunities!*
         EOF
-    - name: Commit and push if it changed
+
+    - name: Commit and push changes if any
       run: |
         git config user.name "Automated"
         git config user.email "actions@users.noreply.github.com"
         git add README.md
+
+        # Check if there are any changes to commit
+        if git diff --cached --quiet; then
+          echo "No changes detected. Skipping commit and push."
+          exit 0
+        fi
+
         timestamp=$(date -u)
-        git commit -m "Latest jobs: ${timestamp}" || exit 0
-        git stash
-        git pull --rebase
-        git stash pop
+        git commit -m "Latest jobs: ${timestamp}"
         git push
