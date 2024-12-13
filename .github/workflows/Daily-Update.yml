@@ -82,4 +82,5 @@ jobs:
           # Commit and push the changes if updates are present
           timestamp=$(date -u)
           git commit -m "Updated job list: ${timestamp}"
+          git pull
           git push
