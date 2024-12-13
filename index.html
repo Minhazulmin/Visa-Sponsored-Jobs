@@ -9,34 +9,46 @@
 </head>
 <body>
 
+    <!-- Navigation -->
     <header>
-        <h1>Visa-Sponsored Job Opportunities</h1>
-        <p>Browse through the latest visa-sponsored job opportunities available across various companies and locations. This list is automatically updated every day.</p>
-        <p>Visit our [VisaJobs.xyz](https://visajobs.xyz) for more details.</p>
+        <div class="logo">
+            <h1>VisaJobs</h1>
+            <p>Your gateway to the latest visa-sponsored job opportunities!</p>
+        </div>
     </header>
 
-    <section id="job-list-container">
-        <h2>Job Listings</h2>
-        <table id="job-list">
-            <thead>
-                <tr>
-                    <th>Company</th>
-                    <th>Job Title</th>
-                    <th>Location</th>
-                    <th>Date Added</th>
-                    <th>Flag</th>
-                    <th>Apply Link</th>
-                </tr>
-            </thead>
-            <tbody>
-                <!-- Job rows will be inserted here -->
-            </tbody>
-        </table>
-    </section>
+    <!-- Main Content -->
+    <main>
+        <section class="intro">
+            <h2>Welcome to the Daily Job List</h2>
+            <p>This website automatically updates every day to bring you the latest visa-sponsored job openings across various companies and locations.</p>
+            <p>Stay connected with our community and keep checking for new opportunities!</p>
+        </section>
 
+        <section id="job-list-container">
+            <h3>Latest Job Listings</h3>
+            <table id="job-list">
+                <thead>
+                    <tr>
+                        <th>Company</th>
+                        <th>Position</th>
+                        <th>Location</th>
+                        <th>Date Added</th>
+                        <th>Flag</th>
+                        <th>Apply</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <!-- Job rows will be dynamically added here -->
+                </tbody>
+            </table>
+        </section>
+    </main>
+
+    <!-- Footer -->
     <footer>
         <p>Last updated: <span id="last-updated"></span></p>
-        <p>For more opportunities, check out our [Telegram channel](https://t.me/visa_sponsored_jobs).</p>
+        <p>For more opportunities, join our community on <a href="https://t.me/visa_sponsored_jobs" target="_blank">Telegram</a>.</p>
     </footer>
 
     <script src="scripts.js"></script>
