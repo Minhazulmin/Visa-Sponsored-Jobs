@@ -9,43 +9,33 @@
 </head>
 <body>
 
-    <!-- Navigation -->
+    <!-- Navigation Section -->
     <header>
-        <div class="logo">
-            <h1>VisaJobs</h1>
-            <p>Your gateway to the latest visa-sponsored job opportunities!</p>
+        <div class="container">
+            <div class="logo">
+                <h1>VisaJobs</h1>
+                <p>Your gateway to the latest visa-sponsored job opportunities!</p>
+            </div>
         </div>
     </header>
 
-    <!-- Main Content -->
+    <!-- Main Content Section -->
     <main>
         <section class="intro">
-            <h2>Welcome to the Daily Job List</h2>
-            <p>This website automatically updates every day to bring you the latest visa-sponsored job openings across various companies and locations.</p>
-            <p>Stay connected with our community and keep checking for new opportunities!</p>
+            <h2>Find Your Next Visa-Sponsored Job</h2>
+            <p>Browse through our curated list of visa-sponsored job opportunities. Updated daily with new listings!</p>
         </section>
 
-        <section id="job-list-container">
-            <h3>Latest Job Listings</h3>
-            <table id="job-list">
-                <thead>
-                    <tr>
-                        <th>Company</th>
-                        <th>Position</th>
-                        <th>Location</th>
-                        <th>Date Added</th>
-                        <th>Flag</th>
-                        <th>Apply</th>
-                    </tr>
-                </thead>
-                <tbody>
-                    <!-- Job rows will be dynamically added here -->
-                </tbody>
-            </table>
+        <section class="job-cards-container" id="job-cards-container">
+            <!-- Job Cards will be populated here -->
+        </section>
+
+        <section class="load-more-container">
+            <button id="load-more-btn" class="load-more-btn">Load More</button>
         </section>
     </main>
 
-    <!-- Footer -->
+    <!-- Footer Section -->
     <footer>
         <p>Last updated: <span id="last-updated"></span></p>
         <p>For more opportunities, join our community on <a href="https://t.me/visa_sponsored_jobs" target="_blank">Telegram</a>.</p>
