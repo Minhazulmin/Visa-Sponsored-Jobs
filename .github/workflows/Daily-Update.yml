@@ -1,73 +1,85 @@
-name: Visa-Sponsored-Jobs
+name: Visa-Sponsored Job Listings
 
 on:
   push:
-  workflow_dispatch:
+    branches:
+      - main  # Trigger on push to main branch
+  workflow_dispatch:  # Allow manual trigger
   schedule:
-    - cron: '6 12 * * *'
+    - cron: '6 12 * * *'  # Run daily at 12:06 UTC
 
 jobs:
-  scheduled:
+  generate-job-list:
     runs-on: ubuntu-latest
+
     steps:
-    - name: Check out this repo
-      uses: actions/checkout@v3
-      with:
-        fetch-depth: 0
-    
-    - name: Fetch job data and generate jobList.json
-      run: |
-        # Fetch job data directly without authentication
-        curl -s https://visajobs.xyz/db.json -o jobList.json
-    - name: Fetch latest data
-      run: |
-        curl https://visajobs.xyz/db.json | jq . > jobList.json
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0  # Ensure entire history is fetched for accurate commit operations
 
-    - name: Parse jobList.json into table
-      id: parse-json
-      run: |
-        cat << EOF > README.md
-        # Daily List of Visa-Sponsored Job Opportunities
+      - name: Fetch Latest Job Data
+        run: |
+          # Fetch the latest job data from the external source and save as jobList.json
+          curl -s https://visajobs.xyz/db.json -o jobList.json
 
-        Welcome to our repository of daily-updated, visa-sponsored job opportunities! This list is automatically refreshed every day to bring you the latest openings across various companies and locations.
+      - name: Parse jobList.json and Update README
+        id: parse-json
+        run: |
+          # Create and update the README file with a dynamic list of job opportunities
+          cat << EOF > README.md
+          # Daily List of Visa-Sponsored Job Opportunities
 
+          Welcome to our repository, where we provide a regularly updated list of visa-sponsored job opportunities. This list is refreshed daily to showcase the most recent job openings across various companies and locations worldwide.
 
-        We encourage the community to engage, share, and support each other in the job search process. If you find this resource helpful, please star the repository and spread the word!
+          We encourage you to engage with the community, share helpful tips, and support one another throughout the job search process. If you find this resource valuable, please consider starring the repository and sharing it with others.
 
-        EOF
+          🌟 **Check out our main site**: [visajobs](https://visajobs.xyz)
 
-        echo "| Company | Job Title | Location | Added | Flag | Link |" >> README.md
-        echo "| --- | --- | --- | --- | --- | --- |" >> README.md
-        jq -r '.[] | 
-          "| " + .company + 
-          " | " + .position + 
-          " | " + (.location | split(" ")[:-1] | join(" ")) + 
-          " | " + .post_date + 
-          " | " + (.location | split(" ")[-1]) + 
-          " | " + "[Apply](" + .description + ")" + 
-          " |"' jobList.json >> README.md
+          💬 **Join our Telegram channel**: [visajobs Telegram](https://t.me/visa_sponsored_jobs)
 
-        cat << EOF >> README.md
+          EOF
 
-        ---
+          # Add table header for job list
+          echo "| Company | Job Title | Location | Date Posted | Flag | Application Link |" >> README.md
+          echo "| --- | --- | --- | --- | --- | --- |" >> README.md
 
-        Last updated: $(date -u)
+          # Loop through each job and append to README in markdown table format
+          jq -r '.[] | 
+            "| " + .company + 
+            " | " + .position + 
+            " | " + (.location | split(" ")[:-1] | join(" ")) + 
+            " | " + .post_date + 
+            " | " + (.location | split(" ")[-1]) + 
+            " | " + "[Apply](" + .description + ")" + 
+            " |"' jobList.json >> README.md
 
-        *Note: This list is automatically updated daily. Check back often for new opportunities!*
-        EOF
+          # Add last updated timestamp
+          cat << EOF >> README.md
 
-    - name: Commit and push changes if any
-      run: |
-        git config user.name "Automated"
-        git config user.email "actions@users.noreply.github.com"
-        git add README.md
+          ---
 
-        # Check if there are any changes to commit
-        if git diff --cached --quiet; then
-          echo "No changes detected. Skipping commit and push."
-          exit 0
-        fi
+          Last updated: $(date -u)
 
-        timestamp=$(date -u)
-        git commit -m "Latest updated jobs: ${timestamp}"
-        git push
+          *Note: This list is automatically updated every day. Be sure to check back often for new job opportunities!*
+          EOF
+
+      - name: Commit and Push Changes (If Any)
+        run: |
+          # Configure Git settings for automated commits
+          git config user.name "Automated Workflow"
+          git config user.email "actions@users.noreply.github.com"
+          
+          # Stage changes to the README file
+          git add README.md
+
+          # Check if there are any changes to commit
+          if git diff --cached --quiet; then
+            echo "No changes detected. Skipping commit and push."
+            exit 0
+          fi
+
+          # Commit and push the changes if updates are present
+          timestamp=$(date -u)
+          git commit -m "Updated job list: ${timestamp}"
+          git push
