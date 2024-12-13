@@ -1,11 +1,14 @@
 # Daily List of Visa-Sponsored Job Opportunities
 
-Welcome to our repository of daily-updated, visa-sponsored job opportunities! This list is automatically refreshed every day to bring you the latest openings across various companies and locations.
+Welcome to our repository, where we provide a regularly updated list of visa-sponsored job opportunities. This list is refreshed daily to showcase the most recent job openings across various companies and locations worldwide.
 
+We encourage you to engage with the community, share helpful tips, and support one another throughout the job search process. If you find this resource valuable, please consider starring the repository and sharing it with others.
 
-We encourage the community to engage, share, and support each other in the job search process. If you find this resource helpful, please star the repository and spread the word!
+🌟 **Check out our main site**: [visajobs](https://visajobs.xyz)
 
-| Company | Job Title | Location | Added | Flag | Link |
+💬 **Join our Telegram channel**: [visajobs Telegram](https://t.me/visa_sponsored_jobs)
+
+| Company | Job Title | Location | Date Posted | Flag | Application Link |
 | --- | --- | --- | --- | --- | --- |
 | HomeToGo | Junior PHP Back-End Engineer (Tech Services) - Smoobu (m/f/d) | Berlin, Germany | December 12, 2024 | 🇩🇪 | [Apply](https://job-boards.eu.greenhouse.io/hometogo/jobs/4474966101) |
 | Zalando | Junior Frontend Engineer - Inbound Frontend (all genders) | Berlin, Germany | December 12, 2024 | 🇩🇪 | [Apply](https://jobs.zalando.com/en/jobs/2717808) |
@@ -598,6 +601,6 @@ We encourage the community to engage, share, and support each other in the job s
 
 ---
 
-Last updated: Fri Dec 13 17:36:02 UTC 2024
+Last updated: Fri Dec 13 17:38:28 UTC 2024
 
-*Note: This list is automatically updated daily. Check back often for new opportunities!*
+*Note: This list is automatically updated every day. Be sure to check back often for new job opportunities!*
