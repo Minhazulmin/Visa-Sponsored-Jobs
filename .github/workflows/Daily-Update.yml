@@ -1,4 +1,4 @@
-name: Scrape latest jobs
+name: Visa-Sponsored-Jobs
 
 on:
   push:
@@ -27,9 +27,6 @@ jobs:
 
         Welcome to our repository of daily-updated, visa-sponsored job opportunities! This list is automatically refreshed every day to bring you the latest openings across various companies and locations.
 
-        🌟 **Check out our main site**: [visajobs](https://visajobs.xyz)
-
-        💬 **Join our Telegram channel**: [visajobs Telegram](https://t.me/visa_sponsored_jobs)
 
         We encourage the community to engage, share, and support each other in the job search process. If you find this resource helpful, please star the repository and spread the word!
 
@@ -68,5 +65,5 @@ jobs:
         fi
 
         timestamp=$(date -u)
-        git commit -m "Latest jobs: ${timestamp}"
+        git commit -m "Latest updated jobs: ${timestamp}"
         git push
