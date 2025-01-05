@@ -4,6 +4,9 @@ We encourage you to engage with the community, share helpful tips, and support o
 
 | Company | Job Title | Location | Date Posted | Flag | Application Link |
 | --- | --- | --- | --- | --- | --- |
+| Coolblue | Team Lead Front-End React | Rotterdam, Netherlands | January 4, 2025 | 🇳🇱 | [Apply](https://www.careersatcoolblue.com/vacancies/team-lead-front-end-react/) |
+| Labforward | Project Engineer (m/f/d) | Berlin, Germany | January 4, 2025 | 🇩🇪 | [Apply](https://labforward.jobs.personio.de/job/1888990?language=en&display=en) |
+| Labforward | Back-End / Full Stack Java Engineer | Berlin, Germany | January 4, 2025 | 🇩🇪 | [Apply](https://labforward.jobs.personio.de/job/1889579?language=en%3Flanguage%3D&display=en) |
 | SELIUK LTD | Senior Software Engineer (C++, C, Python) | Munich, Germany | December 31, 2024 | 🇩🇪 | [Apply](https://apply.workable.com/seliuk-ltd/j/CB14238331/) |
 | QuantCo | Software Engineer | Berlin, Germany | December 31, 2024 | 🇩🇪 | [Apply](https://jobs.lever.co/quantco-/16bbc741-38b5-498f-a871-c5ccca08e092) |
 | QuantCo | Software Engineer | Berlin, Germany | December 31, 2024 | 🇩🇪 | [Apply](https://jobs.lever.co/quantco-/16bbc741-38b5-498f-a871-c5ccca08e092) |
@@ -234,5 +237,5 @@ We encourage you to engage with the community, share helpful tips, and support o
 | Bigpoint GmbH | Lead QA Tester (m/f/d) | Hamburg, Germany | February 13, 2024 | 🇩🇪 | [Apply](https://bigpoint.jobs.personio.de/job/1395283?language=en&display=en) |
 | justtrack | QA Engineer (f/m/d) | Hamburg, Germany | February 4, 2024 | 🇩🇪 | [Apply](https://justtrack.io/career/?j_id=2795eebb-e23f-41a6-a42f-6785cb73871e) |
 ---
-Last updated: Sat Jan  4 12:44:37 UTC 2025
+Last updated: Sun Jan  5 12:44:25 UTC 2025
 *Note: This list is automatically updated every day. Be sure to check back often for new job opportunities!*
