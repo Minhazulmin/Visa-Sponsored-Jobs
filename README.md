@@ -4,6 +4,18 @@ We encourage you to engage with the community, share helpful tips, and support o
 
 | Company | Job Title | Location | Date Posted | Flag | Application Link |
 | --- | --- | --- | --- | --- | --- |
+| Kikoff | Senior Communications Manager | San Francisco, USA | January 9, 2025 | 🇺🇸 | [Apply](https://jobs.ashbyhq.com/kikoff/d911c998-c1df-409c-a124-388f853b6ce3) |
+| Bank for International Settlements – BIS | Risk Analyst | Basel, Switzerland | January 9, 2025 | 🇨🇭 | [Apply](https://lde.tbe.taleo.net/lde01/ats/careers/v2/viewRequisition?org=BIS&cws=40&rid=1291) |
+| Bank for International Settlements – BIS | Data Governance Engineer | Basel, Switzerland | January 9, 2025 | 🇨🇭 | [Apply](https://lde.tbe.taleo.net/lde01/ats/careers/v2/viewRequisition?org=BIS&cws=40&rid=1286) |
+| Bank for International Settlements – BIS | Head of IT Development | Basel, Switzerland | January 9, 2025 | 🇨🇭 | [Apply](https://lde.tbe.taleo.net/lde01/ats/careers/v2/viewRequisition?org=BIS&cws=40&rid=1287) |
+| Zalando | Software Engineer - Core Logistics Abilities | Berlin, Germany | January 9, 2025 | 🇩🇪 | [Apply](https://jobs.zalando.com/en/jobs/2717241) |
+| jndsolutions | Network Tester | New Jersey, USA | January 9, 2025 | 🇺🇸 | [Apply](https://jnd-inc.breezy.hr/p/14c3b744e638-network-tester-5-13958-5) |
+| Kikoff | Software Engineer - Mobile | San Francisco, USA | January 9, 2025 | 🇺🇸 | [Apply](https://jobs.ashbyhq.com/kikoff/5174cf92-0ef6-47c4-9414-afa2d26dfc4b) |
+| Kikoff | Software Engineer - Backend | San Francisco, USA | January 9, 2025 | 🇺🇸 | [Apply](https://jobs.ashbyhq.com/kikoff/642a8b0d-22cc-42fd-b21f-72d44649c3da) |
+| Kikoff | Senior Software Engineer - Full Stack | San Francisco, USA | January 9, 2025 | 🇺🇸 | [Apply](https://jobs.ashbyhq.com/kikoff/6b0b926f-510d-4e47-bbf1-ceec2913b78a) |
+| Kikoff | Senior Software Engineer - Frontend | San Francisco, USA | January 9, 2025 | 🇺🇸 | [Apply](https://jobs.ashbyhq.com/kikoff/316f1ee2-6612-48be-b20b-2d274ec57c87) |
+| Kikoff | Senior Software Engineer - Backend | San Francisco, USA | January 9, 2025 | 🇺🇸 | [Apply](https://jobs.ashbyhq.com/kikoff/dc5ce1c8-ef61-40b6-82e2-a6b04c19fff8) |
+| Kikoff | Product Engineering Manager | San Francisco, USA | January 9, 2025 | 🇺🇸 | [Apply](https://jobs.ashbyhq.com/kikoff/4ada487b-89ac-4a13-b501-bf0f8b043cae) |
 | Coolblue | Team Lead Front-End React | Rotterdam, Netherlands | January 4, 2025 | 🇳🇱 | [Apply](https://www.careersatcoolblue.com/vacancies/team-lead-front-end-react/) |
 | Labforward | Project Engineer (m/f/d) | Berlin, Germany | January 4, 2025 | 🇩🇪 | [Apply](https://labforward.jobs.personio.de/job/1888990?language=en&display=en) |
 | Labforward | Back-End / Full Stack Java Engineer | Berlin, Germany | January 4, 2025 | 🇩🇪 | [Apply](https://labforward.jobs.personio.de/job/1889579?language=en%3Flanguage%3D&display=en) |
@@ -237,5 +249,5 @@ We encourage you to engage with the community, share helpful tips, and support o
 | Bigpoint GmbH | Lead QA Tester (m/f/d) | Hamburg, Germany | February 13, 2024 | 🇩🇪 | [Apply](https://bigpoint.jobs.personio.de/job/1395283?language=en&display=en) |
 | justtrack | QA Engineer (f/m/d) | Hamburg, Germany | February 4, 2024 | 🇩🇪 | [Apply](https://justtrack.io/career/?j_id=2795eebb-e23f-41a6-a42f-6785cb73871e) |
 ---
-Last updated: Thu Jan  9 12:48:35 UTC 2025
+Last updated: Fri Jan 10 12:48:21 UTC 2025
 *Note: This list is automatically updated every day. Be sure to check back often for new job opportunities!*
