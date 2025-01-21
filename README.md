@@ -4,6 +4,10 @@ We encourage you to engage with the community, share helpful tips, and support o
 
 | Company | Job Title | Location | Date Posted | Flag | Application Link |
 | --- | --- | --- | --- | --- | --- |
+| Mistral AI | Software Engineer, Billing | Paris, France | January 20, 2025 | 🇫🇷 | [Apply](https://jobs.lever.co/mistral/e1a37c33-fdec-41cf-bb92-35646e283fa8) |
+| Mistral AI | Software Engineer, Security | Paris, France | January 20, 2025 | 🇫🇷 | [Apply](https://jobs.lever.co/mistral/9f6e6513-fd9e-411b-b558-540bc12b2fe4) |
+| Mistral AI | Applied AI Engineer, Deployment, Europe - Paris | Paris, France | January 20, 2025 | 🇫🇷 | [Apply](https://jobs.lever.co/mistral/3e51d533-1f2d-48e3-9a2b-33fc7e8b0c0c) |
+| Mistral AI | Technical Program Manager, Engineering | Paris, France | January 20, 2025 | 🇫🇷 | [Apply](https://jobs.lever.co/mistral/a1854159-922e-4de7-adb6-7c1b608c147f) |
 | Kikoff | Senior Communications Manager | San Francisco, USA | January 9, 2025 | 🇺🇸 | [Apply](https://jobs.ashbyhq.com/kikoff/d911c998-c1df-409c-a124-388f853b6ce3) |
 | Bank for International Settlements – BIS | Risk Analyst | Basel, Switzerland | January 9, 2025 | 🇨🇭 | [Apply](https://lde.tbe.taleo.net/lde01/ats/careers/v2/viewRequisition?org=BIS&cws=40&rid=1291) |
 | Bank for International Settlements – BIS | Data Governance Engineer | Basel, Switzerland | January 9, 2025 | 🇨🇭 | [Apply](https://lde.tbe.taleo.net/lde01/ats/careers/v2/viewRequisition?org=BIS&cws=40&rid=1286) |
@@ -249,5 +253,5 @@ We encourage you to engage with the community, share helpful tips, and support o
 | Bigpoint GmbH | Lead QA Tester (m/f/d) | Hamburg, Germany | February 13, 2024 | 🇩🇪 | [Apply](https://bigpoint.jobs.personio.de/job/1395283?language=en&display=en) |
 | justtrack | QA Engineer (f/m/d) | Hamburg, Germany | February 4, 2024 | 🇩🇪 | [Apply](https://justtrack.io/career/?j_id=2795eebb-e23f-41a6-a42f-6785cb73871e) |
 ---
-Last updated: Mon Jan 20 12:47:30 UTC 2025
+Last updated: Tue Jan 21 12:47:14 UTC 2025
 *Note: This list is automatically updated every day. Be sure to check back often for new job opportunities!*
