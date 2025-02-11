@@ -4,6 +4,12 @@ We encourage you to engage with the community, share helpful tips, and support o
 
 | Company | Job Title | Location | Date Posted | Flag | Application Link |
 | --- | --- | --- | --- | --- | --- |
+| Hapag-Lloyd AG  | Cloud Engineer  | Gdansk , Poland | February 10, 2025 | 🇵🇱 | [Apply](https://www.linkedin.com/jobs/view/4148246703) |
+| Byborg Enterprises | Content Marketing Manager | Neudorf-Weimershof, Luxembourg | February 10, 2025 | 🇱🇺 | [Apply](https://jobs.smartrecruiters.com/DoclerHolding/744000035188883-content-marketing-manager) |
+| Langham Recruitment | Senior FPGA Network Engineer | London , United Kingdom | February 10, 2025 | 🇬🇧 | [Apply](https://www.linkedin.com/jobs/view/4146351784) |
+| MODE Recruitment | Senior System Administrator | Frankfurt, Germany | February 10, 2025 | 🇩🇪 | [Apply](https://www.linkedin.com/jobs/view/4148245932) |
+| MODE Recruitment | Senior System Engineer | Frankfurt, Germany | February 10, 2025 | 🇩🇪 | [Apply](https://www.linkedin.com/jobs/view/4148245729) |
+| MODE Recruitment | Senior PHP Developer | Munich, Germany | February 10, 2025 | 🇩🇪 | [Apply](https://www.linkedin.com/jobs/view/4148246703) |
 | Sunday GmbH | Forward Deployed Engineer | Hamburg, Germany | January 25, 2025 | 🇩🇪 | [Apply](https://join.com/companies/sunday/13429301-marketing-artist-f-m-d) |
 | OpenAI | Senior Software Engineer - Backend | London, United Kingdom | January 25, 2025 | 🇬🇧 | [Apply](https://jobs.ashbyhq.com/openai/b40efa93-da3c-4593-bc98-03d203cd0488) |
 | Shapr3d | Senior Software Engineer - Backend | Budapest, Hungary | January 25, 2025 | 🇭🇺 | [Apply](https://www.shapr3d.com/company/jobs-details?gh_jid=6316008003) |
@@ -256,5 +262,5 @@ We encourage you to engage with the community, share helpful tips, and support o
 | Bigpoint GmbH | Lead QA Tester (m/f/d) | Hamburg, Germany | February 13, 2024 | 🇩🇪 | [Apply](https://bigpoint.jobs.personio.de/job/1395283?language=en&display=en) |
 | justtrack | QA Engineer (f/m/d) | Hamburg, Germany | February 4, 2024 | 🇩🇪 | [Apply](https://justtrack.io/career/?j_id=2795eebb-e23f-41a6-a42f-6785cb73871e) |
 ---
-Last updated: Mon Feb 10 12:48:02 UTC 2025
+Last updated: Tue Feb 11 12:47:55 UTC 2025
 *Note: This list is automatically updated every day. Be sure to check back often for new job opportunities!*
