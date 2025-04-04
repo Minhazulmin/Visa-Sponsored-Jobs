@@ -4,6 +4,9 @@ We encourage you to engage with the community, share helpful tips, and support o
 
 | Company | Job Title | Location | Date Posted | Flag | Application Link |
 | --- | --- | --- | --- | --- | --- |
+| Speakap | Experienced Frontend Developer | Amsterdam, Netherlands | Not specified | 🇳🇱 | [Apply](https://jobs.speakap.com/o/frontend-developer) |
+| N26 | Finance Business Partner - Investments | Berlin, Germany | Not specified | 🇩🇪 | [Apply](https://n26.com/en-eu/careers/positions/6683900) |
+| N26 | Backend Engineer - Memberships | Berlin, Germany | Not specified | 🇩🇪 | [Apply](https://n26.com/en-eu/careers/positions/6744192) |
 | Mistral AI | AI Solution Architect, Deployment - France 🇫🇷, UK, USA 🇺🇸 | Paris 🇫🇷 / London 🇬🇧 / Palo | March 22, 2025 | Alto | [Apply](https://jobs.lever.co/mistral/df3d4b5c-4910-42c8-8fe8-5fd114b2961a) |
 | Mistral AI | Research Engineer - Paris/London | Paris 🇫🇷 / London | March 22, 2025 | 🇬🇧 | [Apply](https://jobs.lever.co/mistral/07447e1d-7900-46d4-b61b-186f2f76847f) |
 | Mistral AI | AI Scientist - Paris/London | Paris 🇫🇷 / London | March 22, 2025 | 🇬🇧 | [Apply](https://jobs.lever.co/mistral/675b7f06-a76b-4144-af0c-4dd3282ef489) |
@@ -287,5 +290,5 @@ We encourage you to engage with the community, share helpful tips, and support o
 | Bigpoint GmbH | Lead QA Tester (m/f/d) | Hamburg, Germany | February 13, 2024 | 🇩🇪 | [Apply](https://bigpoint.jobs.personio.de/job/1395283?language=en&display=en) |
 | justtrack | QA Engineer (f/m/d) | Hamburg, Germany | February 4, 2024 | 🇩🇪 | [Apply](https://justtrack.io/career/?j_id=2795eebb-e23f-41a6-a42f-6785cb73871e) |
 ---
-Last updated: Thu Apr  3 12:52:31 UTC 2025
+Last updated: Fri Apr  4 12:51:24 UTC 2025
 *Note: This list is automatically updated every day. Be sure to check back often for new job opportunities!*
