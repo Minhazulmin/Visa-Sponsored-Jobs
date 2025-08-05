@@ -4,6 +4,7 @@ We encourage you to engage with the community, share helpful tips, and support o
 
 | Company | Job Title | Location | Date Posted | Flag | Application Link |
 | --- | --- | --- | --- | --- | --- |
+| K-tronik GmbH | Development Engineer (m/f/d) Aerospace Electronics | Lindau, Germany | August 4, 2025 | 🇩🇪 | [Apply](https://bewerbung.k-tronik.de/en/6896/development-engineer-m-f-d-aerospace-electronics) |
 | Speakap | Experienced Frontend Developer | Amsterdam, Netherlands | Not specified | 🇳🇱 | [Apply](https://jobs.speakap.com/o/frontend-developer) |
 | N26 | Finance Business Partner - Investments | Berlin, Germany | Not specified | 🇩🇪 | [Apply](https://n26.com/en-eu/careers/positions/6683900) |
 | N26 | Backend Engineer - Memberships | Berlin, Germany | Not specified | 🇩🇪 | [Apply](https://n26.com/en-eu/careers/positions/6744192) |
@@ -290,5 +291,5 @@ We encourage you to engage with the community, share helpful tips, and support o
 | Bigpoint GmbH | Lead QA Tester (m/f/d) | Hamburg, Germany | February 13, 2024 | 🇩🇪 | [Apply](https://bigpoint.jobs.personio.de/job/1395283?language=en&display=en) |
 | justtrack | QA Engineer (f/m/d) | Hamburg, Germany | February 4, 2024 | 🇩🇪 | [Apply](https://justtrack.io/career/?j_id=2795eebb-e23f-41a6-a42f-6785cb73871e) |
 ---
-Last updated: Mon Aug  4 13:04:43 UTC 2025
+Last updated: Tue Aug  5 13:04:42 UTC 2025
 *Note: This list is automatically updated every day. Be sure to check back often for new job opportunities!*
