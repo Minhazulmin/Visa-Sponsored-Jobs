@@ -4,6 +4,17 @@ We encourage you to engage with the community, share helpful tips, and support o
 
 | Company | Job Title | Location | Date Posted | Flag | Application Link |
 | --- | --- | --- | --- | --- | --- |
+| Stripe | Backend Engineer, Core Technology | Dublin, Ireland | March 11, 2026 | 🇮🇪 | [Apply](https://stripe.com/jobs/search?query=backend+engineer) |
+| Stripe | Backend / API Engineer, Payouts | London, United Kingdom | March 11, 2026 | 🇬🇧 | [Apply](https://stripe.com/jobs/search?query=backend+engineer) |
+| Ashby | Senior Software Engineer, Product Engineering, EU | Remote, Europe | March 11, 2026 | 🇪🇺 | [Apply](https://www.ashbyhq.com/careers) |
+| Ashby | Staff Platform Engineer, EU | Remote, Europe | March 11, 2026 | 🇪🇺 | [Apply](https://www.ashbyhq.com/careers) |
+| Snyk | Senior Software Engineer | London, United Kingdom | March 11, 2026 | 🇬🇧 | [Apply](https://snyk.io/careers/engineering/) |
+| Elastic | Senior Software Engineer, Detections and Response | Remote, Spain | March 11, 2026 | 🇪🇸 | [Apply](https://jobs.elastic.co/jobs/engineering) |
+| Elastic | Senior Software Engineer, Generative AI | Remote, Spain | March 11, 2026 | 🇪🇸 | [Apply](https://jobs.elastic.co/jobs/engineering) |
+| TravelPerk | Senior Software Engineer | Barcelona, Spain | March 11, 2026 | 🇪🇸 | [Apply](https://www.travelperk.com/careers/) |
+| Bondaval | Full Stack Engineer | London, United Kingdom | March 11, 2026 | 🇬🇧 | [Apply](https://www.bondaval.com/careers) |
+| MessageBird | Senior Software Engineer (Go) | Amsterdam, Netherlands | March 11, 2026 | 🇳🇱 | [Apply](https://www.messagebird.com/careers) |
+| Spiich Labs | Founding Fullstack Engineer | Stockholm, Sweden | March 11, 2026 | 🇸🇪 | [Apply](https://spiich.ai) |
 | Revolut | Software Engineer (Java) - Credit | Barcelona, Spain | March 10, 2026 | 🇪🇸 | [Apply](https://www.revolut.com/careers/engineering/) |
 | Revolut | Senior Software Engineer (DevOps) - Observability Platform | Krakow, Poland | March 10, 2026 | 🇵🇱 | [Apply](https://www.revolut.com/careers/engineering/) |
 | Revolut | Rev-celerator Graduate Programme 2026: iOS Software Engineer | London, United Kingdom | March 10, 2026 | 🇬🇧 | [Apply](https://www.revolut.com/en-US/graduate-programme/) |
@@ -335,5 +346,5 @@ We encourage you to engage with the community, share helpful tips, and support o
 | Bigpoint GmbH | Lead QA Tester (m/f/d) | Hamburg, Germany | February 13, 2024 | 🇩🇪 | [Apply](https://bigpoint.jobs.personio.de/job/1395283?language=en&display=en) |
 | justtrack | QA Engineer (f/m/d) | Hamburg, Germany | February 4, 2024 | 🇩🇪 | [Apply](https://justtrack.io/career/?j_id=2795eebb-e23f-41a6-a42f-6785cb73871e) |
 ---
-Last updated: Wed Mar 11 13:22:38 UTC 2026
+Last updated: Thu Mar 12 13:22:33 UTC 2026
 *Note: This list is automatically updated every day. Be sure to check back often for new job opportunities!*
