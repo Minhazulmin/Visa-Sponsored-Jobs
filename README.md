@@ -4,6 +4,9 @@ We encourage you to engage with the community, share helpful tips, and support o
 
 | Company | Job Title | Location | Date Posted | Flag | Application Link |
 | --- | --- | --- | --- | --- | --- |
+| Juniper Aged Care | Registered Nurse (Visa Sponsorship Available) - Kimberley Region | Broome,  
+               Western australia,  
+               | 2026-06-15 | Australia | [Apply](https://visasponsor.jobs/api/jobs/9d93a6166d534b33b2522cc760223f36/Registered-Nurse-(Visa-Sponsorship-Available)-Kimberley-Region) |
 | BAH Partners | C++ Developers – Top-Tier Buyside Trading Firms (Open to Non-Finance | Visa Sponsorship Available) |  | 2026-06-13 | Singapore | [Apply](https://visasponsor.jobs/api/jobs/57bdd4d3920041ef8b581b80acab5498/C++-Developers-–-Top-Tier-Buyside-Trading-Firms-(Open-to-Non-Finance-Visa-Sponsorship-Available)) |
 | N26 | Staff Android Engineer - Mobile Banking | Berlin, Germany | June 7, 2026 | 🇩🇪 | [Apply](https://n26.careers/jobs/staff-android-engineer-mobile-banking) |
 | Wise | Mid-level Full Stack Engineer - Transfers | London, UK | June 7, 2026 | 🇬🇧 | [Apply](https://wise.com/careers/job-details/full-stack-engineer-transfers) |
@@ -435,5 +438,5 @@ We encourage you to engage with the community, share helpful tips, and support o
 | Bigpoint GmbH | Lead QA Tester (m/f/d) | Hamburg, Germany | February 13, 2024 | 🇩🇪 | [Apply](https://bigpoint.jobs.personio.de/job/1395283?language=en&display=en) |
 | justtrack | QA Engineer (f/m/d) | Hamburg, Germany | February 4, 2024 | 🇩🇪 | [Apply](https://justtrack.io/career/?j_id=2795eebb-e23f-41a6-a42f-6785cb73871e) |
 ---
-Last updated: Sun Jun 14 14:22:44 UTC 2026
+Last updated: Mon Jun 15 17:24:58 UTC 2026
 *Note: This list is automatically updated every day. Be sure to check back often for new job opportunities!*
