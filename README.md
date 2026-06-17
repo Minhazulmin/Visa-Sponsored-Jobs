@@ -4,6 +4,7 @@ We encourage you to engage with the community, share helpful tips, and support o
 
 | Company | Job Title | Location | Date Posted | Flag | Application Link |
 | --- | --- | --- | --- | --- | --- |
+| Greenstaff Medical US International | Physical Therapist (PT) - TN Visa &amp; Green Card Sponsorship Available |  | 2026-06-17 | Canada | [Apply](https://visasponsor.jobs/api/jobs/4b79190fec3c49c4bf2537a7810c0eb5/Physical-Therapist-(PT)-TN-Visa-&amp;-Green-Card-Sponsorship-Available) |
 | N26 | Strategy &amp; Operations Manager - Acquire | Berlin,  
                | 2026-06-16 | Germany | [Apply](https://visasponsor.jobs/api/jobs/bed1b51e6b7740f8be922806b80fd9d4/Strategy-&amp;-Operations-Manager-Acquire) |
 | N26 | Senior Site Reliability Engineer - Software Logistics | Berlin,  
@@ -442,5 +443,5 @@ We encourage you to engage with the community, share helpful tips, and support o
 | Bigpoint GmbH | Lead QA Tester (m/f/d) | Hamburg, Germany | February 13, 2024 | 🇩🇪 | [Apply](https://bigpoint.jobs.personio.de/job/1395283?language=en&display=en) |
 | justtrack | QA Engineer (f/m/d) | Hamburg, Germany | February 4, 2024 | 🇩🇪 | [Apply](https://justtrack.io/career/?j_id=2795eebb-e23f-41a6-a42f-6785cb73871e) |
 ---
-Last updated: Tue Jun 16 17:17:21 UTC 2026
+Last updated: Wed Jun 17 15:57:51 UTC 2026
 *Note: This list is automatically updated every day. Be sure to check back often for new job opportunities!*
