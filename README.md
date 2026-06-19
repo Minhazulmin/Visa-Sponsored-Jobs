@@ -4,6 +4,13 @@ We encourage you to engage with the community, share helpful tips, and support o
 
 | Company | Job Title | Location | Date Posted | Flag | Application Link |
 | --- | --- | --- | --- | --- | --- |
+| Welltech | Head of Product, Payments |  | 2026-06-19 | Cyprus | [Apply](https://relocate.me/cyprus/limassol/welltech/head-of-product-payments-10266) |
+| Hevy | Lead React Native Engineer |  | 2026-06-19 | Spain | [Apply](https://relocate.me/spain/barcelona/hevy/lead-react-native-engineer-10255) |
+| PayPay | Backend Engineer |  | 2026-06-19 | Japan | [Apply](https://relocate.me/japan/tokyo/paypay/backend-engineer-10205) |
+| N26 | Team Lead Risk - ICAAP / ILAAP (Pillar 1) | Berlin,  
+               | 2026-06-19 | Germany | [Apply](https://visasponsor.jobs/api/jobs/68c9be1341234dd1a9606ff12549caee/Team-Lead-Risk-ICAAP-ILAAP-(Pillar-1)) |
+| N26 | Information Security Controls Manager - Cloud &amp; AI Governance | Berlin,  
+               | 2026-06-19 | Germany | [Apply](https://visasponsor.jobs/api/jobs/46389234377e4e13bb3b556c8217ed7c/Information-Security-Controls-Manager-Cloud-&amp;-AI-Governance) |
 | SumUp | Senior Analytics Engineer - Risk Analytics | Berlin, | 2026-06-18 | Germany | [Apply](https://www.arbeitnow.com/jobs/companies/sumup/senior-analytics-engineer-risk-analytics-berlin-301309) |
 | PayPay | Automation QA Engineer |  | 2026-06-18 | Japan | [Apply](https://relocate.me/japan/tokyo/paypay/automation-qa-engineer-10105) |
 | Picnic | Software Engineer - Consumer Products |  | 2026-06-18 | Netherlands | [Apply](https://relocate.me/netherlands/amsterdam/picnic/software-engineer-consumer-products-10256) |
@@ -456,5 +463,5 @@ We encourage you to engage with the community, share helpful tips, and support o
 | Bigpoint GmbH | Lead QA Tester (m/f/d) | Hamburg, Germany | February 13, 2024 | 🇩🇪 | [Apply](https://bigpoint.jobs.personio.de/job/1395283?language=en&display=en) |
 | justtrack | QA Engineer (f/m/d) | Hamburg, Germany | February 4, 2024 | 🇩🇪 | [Apply](https://justtrack.io/career/?j_id=2795eebb-e23f-41a6-a42f-6785cb73871e) |
 ---
-Last updated: Thu Jun 18 15:48:13 UTC 2026
+Last updated: Fri Jun 19 15:37:02 UTC 2026
 *Note: This list is automatically updated every day. Be sure to check back often for new job opportunities!*
