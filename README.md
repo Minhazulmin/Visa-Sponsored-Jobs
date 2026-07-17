@@ -4,6 +4,51 @@ We encourage you to engage with the community, share helpful tips, and support o
 
 | Company | Job Title | Location | Date Posted | Flag | Application Link |
 | --- | --- | --- | --- | --- | --- |
+| Picnic | Senior Software Engineer - Warehouse Systems |  | 2026-07-16 | Netherlands | [Apply](https://relocate.me/netherlands/amsterdam/picnic/senior-software-engineer-warehouse-systems-10262) |
+| TheInnCollectionGroup3 | Head Chef - Live In | Wolverhampton,  
+               England,  
+               United | 2026-07-16 | Kingdom | [Apply](https://visasponsor.jobs/api/jobs/8b9fce356ce04aab91bd5bf331a562b9/Head-Chef-Live-In) |
+| Bright Leaf Recruitment | Small Animal night Vet hospital | Liverpool,  
+               England,  
+               United | 2026-07-16 | Kingdom | [Apply](https://visasponsor.jobs/api/jobs/cb74cb5ac26e4b4d96d037bc9bca4618/Small-Animal-night-Vet-hospital) |
+| Plaistow Business Consultants Ltd | Global Orthopedic Surgeon | London,  
+               England,  
+               United | 2026-07-16 | Kingdom | [Apply](https://visasponsor.jobs/api/jobs/22f5a408356d4c11be9cecedf12e8b16/Global-Orthopedic-Surgeon) |
+| ALG  Talent Specialists | Aircraft Painter |  | 2026-07-16 | Singapore | [Apply](https://visasponsor.jobs/api/jobs/b794c2cb97574a0ca3222b8b4465fb84/Aircraft-Painter) |
+| SimScale GmbH | Principal Governance, Risk and Compliance (GRC) Architect |  | 2026-07-14 | Munich | [Apply](https://www.arbeitnow.com/jobs/companies/simscale-gmbh/principal-governance-risk-and-compliance-grc-architect-munich-313642) |
+| Optiver | C# Software Engineer | Sydney,  
+               New south wales,  
+               | 2026-07-15 | Australia | [Apply](https://visasponsor.jobs/api/jobs/24f623a5ab464621919b87d4fe72f570/C%23-Software-Engineer) |
+| Monzo | Remote Senior Backend Engineer | Salford,  
+               England,  
+               United | 2026-07-13 | Kingdom | [Apply](https://visasponsor.jobs/api/jobs/1f424ca047354861a5049fd459cac0cf/Remote-Senior-Backend-Engineer) |
+| Optiver | Category Manager | Amsterdam,  
+               Noordholland,  
+               | 2026-07-13 | Netherlands | [Apply](https://visasponsor.jobs/api/jobs/8726d282e7a640ddb3ef917aceeca750/Category-Manager) |
+| Workforce Australia | Mental Health Nursing jobs in SE Sydney (visa sponsorship available) | Sydney,  
+               New south wales,  
+               | 2026-07-13 | Australia | [Apply](https://visasponsor.jobs/api/jobs/a4c0fc7f21ae4acd91f38d7c8ddc1948/Mental-Health-Nursing-jobs-in-SE-Sydney-(visa-sponsorship-available)) |
+| University of the West Scotland | Lecturer | United | 2026-07-12 | Kingdom | [Apply](https://visasponsor.jobs/api/jobs/9404809a7f1c49b9826841508c7b0c11/Lecturer) |
+| Zalando | Financial Analyst (all genders) | Ansbach,  
+               Bavaria,  
+               | 2026-07-12 | Germany | [Apply](https://visasponsor.jobs/api/jobs/4cf9358fecab43d8bd5a043b42f641b7/Financial-Analyst-(all-genders)) |
+| N26 | Senior Manager Risk Controlling - ICAAP / ILAAP (Pillar 1) | Berlin,  
+               | 2026-07-09 | Germany | [Apply](https://visasponsor.jobs/api/jobs/9e3686772f2c4d84a936fb02ffe2c052/Senior-Manager-Risk-Controlling-ICAAP-ILAAP-(Pillar-1)) |
+| Playson | System Administrator/Service Desk |  | 2026-07-08 | Slovakia | [Apply](https://relocate.me/slovakia/bratislava/playson/system-administrator-service-desk-10271) |
+| SumUp | Senior Machine Learning Engineer I | Berlin, Berlin, | 2026-07-06 | Germany | [Apply](https://www.arbeitnow.com/jobs/companies/sumup/senior-machine-learning-engineer-i-berlin-493840) |
+| Healthcarelink | Community-Based Occupational Therapist - Visa Sponsorship Available | Adelaide,  
+               South australia,  
+               | 2026-07-06 | Australia | [Apply](https://visasponsor.jobs/api/jobs/b9393acf64ef45a0bbff26547ade8f11/Community-Based-Occupational-Therapist-Visa-Sponsorship-Available) |
+| C Teleport | Lead Software Engineer (Team Lead) - Billing Squad |  | 2026-07-05 | Netherlands | [Apply](https://relocate.me/netherlands/rotterdam/c-teleport/lead-software-engineer-team-lead-billing-squad-10270) |
+| PayPay Card | Automation QA Engineer |  | 2026-07-05 | Japan | [Apply](https://relocate.me/japan/tokyo/paypay-card/automation-qa-engineer-10182) |
+| Optiver | Global Mobility Manager | Amsterdam,  
+               Noordholland,  
+               | 2026-07-04 | Netherlands | [Apply](https://visasponsor.jobs/api/jobs/0402ad8f4d3946d89f9cf1da796f821a/Global-Mobility-Manager) |
+| Optiver | Senior End User Computing - Virtual Desktop Engineer (EUC - VDI) | Sydney,  
+               New south wales,  
+               | 2026-07-03 | Australia | [Apply](https://visasponsor.jobs/api/jobs/50f1f7a2f40a4a659756709b31152445/Senior-End-User-Computing-Virtual-Desktop-Engineer-(EUC-VDI)) |
+| SumUp | Talent Acquisition Partner | Berlin, Berlin, | 2026-07-02 | Germany | [Apply](https://www.arbeitnow.com/jobs/companies/sumup/talent-acquisition-partner-berlin-49251) |
+| The Global Move | 1000+ Curated Visa Sponsorship and Remote Tech Jobs (Paid Option) |  | 2026-07-02 | Remote | [Apply](https://relocate.me/remote/remote/the-global-move/1000-curated-visa-sponsorship-and-remote-tech-jobs-paid-option-10080) |
 | Intelligent Health Care Australia | Full-Time Podiatrist - Sponsorship available | Port macquarie,  
                New south wales,  
                | 2026-06-30 | Australia | [Apply](https://visasponsor.jobs/api/jobs/14b8d7c3b0364145aed34b70d1341253/Full-Time-Podiatrist-Sponsorship-available) |
@@ -22,7 +67,6 @@ We encourage you to engage with the community, share helpful tips, and support o
 | Revolut | Internship Programme 2027: Information Security Engineer (Appsec) | Porto,  
                Porto,  
                | 2026-06-27 | Portugal | [Apply](https://visasponsor.jobs/api/jobs/fae41eb5d32749aa990109efa16b629f/Internship-Programme-2027:-Information-Security-Engineer-(Appsec)) |
-| SumUp | Mid Data Analyst - Finance | Berlin, Berlin, | 2026-06-25 | Germany | [Apply](https://www.arbeitnow.com/jobs/companies/sumup/mid-data-analyst-finance-berlin-462914) |
 | PayPay Card | Backend Engineer |  | 2026-06-24 | Japan | [Apply](https://relocate.me/japan/tokyo/paypay-card/backend-engineer-10180) |
 | PayPay | Senior Product Manager |  | 2026-06-23 | Japan | [Apply](https://relocate.me/japan/tokyo/paypay/senior-product-manager-10236) |
 | Catawiki | Engineering Manager - Shipping |  | 2026-06-23 | Portugal | [Apply](https://relocate.me/portugal/lisbon/catawiki/engineering-manager-shipping-10269) |
@@ -35,7 +79,6 @@ We encourage you to engage with the community, share helpful tips, and support o
 | PayPay | Backend Engineer |  | 2026-06-19 | Japan | [Apply](https://relocate.me/japan/tokyo/paypay/backend-engineer-10205) |
 | N26 | Team Lead Risk - ICAAP / ILAAP (Pillar 1) | Berlin, | 2026-06-19 | Germany | [Apply](https://visasponsor.jobs/api/jobs/68c9be1341234dd1a9606ff12549caee/Team-Lead-Risk-ICAAP-ILAAP-(Pillar-1)) |
 | N26 | Information Security Controls Manager - Cloud &amp; AI Governance | Berlin, | 2026-06-19 | Germany | [Apply](https://visasponsor.jobs/api/jobs/46389234377e4e13bb3b556c8217ed7c/Information-Security-Controls-Manager-Cloud-&amp;-AI-Governance) |
-| SumUp | Senior Analytics Engineer - Risk Analytics | Berlin, | 2026-06-18 | Germany | [Apply](https://www.arbeitnow.com/jobs/companies/sumup/senior-analytics-engineer-risk-analytics-berlin-301309) |
 | PayPay | Automation QA Engineer |  | 2026-06-18 | Japan | [Apply](https://relocate.me/japan/tokyo/paypay/automation-qa-engineer-10105) |
 | Picnic | Software Engineer - Consumer Products |  | 2026-06-18 | Netherlands | [Apply](https://relocate.me/netherlands/amsterdam/picnic/software-engineer-consumer-products-10256) |
 | Multiverse Computing | Senior MLOps Engineer (Training & Inference Optimization) |  | 2026-06-18 | Spain | [Apply](https://relocate.me/spain/san-sebastian/multiverse-computing/senior-mlops-engineer-training-inference-optimization-10243) |
@@ -326,5 +369,5 @@ We encourage you to engage with the community, share helpful tips, and support o
 | adjoe | QA Engineer (f/m/d) | Hamburg, Germany | February 28, 2024 | 🇩🇪 | [Apply](https://adjoe.io/company/careers/?j_id=f46b07a1-4a9d-4f09-a076-56c74c3de460) |
 | justtrack | QA Engineer (f/m/d) | Hamburg, Germany | February 4, 2024 | 🇩🇪 | [Apply](https://justtrack.io/career/?j_id=2795eebb-e23f-41a6-a42f-6785cb73871e) |
 ---
-Last updated: Thu Jul 16 14:14:31 UTC 2026
+Last updated: Fri Jul 17 13:57:08 UTC 2026
 *Note: This list is automatically updated every day. Be sure to check back often for new job opportunities!*
