@@ -4,6 +4,46 @@ We encourage you to engage with the community, share helpful tips, and support o
 
 | Company | Job Title | Location | Date Posted | Flag | Application Link |
 | --- | --- | --- | --- | --- | --- |
+| Clera | Account Executive |  | 2026-08-08 | Munich | [Apply](https://www.arbeitnow.com/jobs/companies/clera/account-executive-munich-336717) |
+| hellofresh | Senior Product Designer, New Ventures (f/m/x) | Berlin, | 2026-08-08 | Berlin | [Apply](https://www.arbeitnow.com/jobs/companies/hellofresh/senior-product-designer-new-ventures-berlin-berlin-382449) |
+| HelloFresh | Growth Operations &amp; Campaigns Manager (Junior | Kingston upon hull,  
+               England,  
+               United | 2026-08-08 | Kingdom | [Apply](https://visasponsor.jobs/api/jobs/c0d0e369b8a04c2999ee3473b97ca6dc/Growth-Operations-&amp;-Campaigns-Manager-(Junior) |
+| JustPlay GmbH | QA Lead (all genders) | Munich | 2026-08-06 | (Hybrid) | [Apply](https://www.arbeitnow.com/jobs/companies/justplay-gmbh/qa-lead-all-genders-munich-8475) |
+| hellofresh | Senior Cloud Security Engineer (m,f,x) | Berlin, | 2026-08-06 | Berlin | [Apply](https://www.arbeitnow.com/jobs/companies/hellofresh/senior-cloud-security-engineer-mfx-berlin-berlin-196412) |
+| Clera | Full Stack Engineer |  | 2026-08-06 | remote | [Apply](https://www.arbeitnow.com/jobs/companies/clera/remote-full-stack-engineer-383585) |
+| remotecom | Senior Mobility Specialist - Immigration Lawyer |  | 2026-08-05 |  | [Apply](https://www.arbeitnow.com/jobs/companies/remotecom/senior-mobility-specialist-immigration-lawyer-173940) |
+| Naija UK Connect Limited | Nursery Practitioner Jobs 2026 – Visa Sponsorship Available | Kingston upon hull,  
+               England,  
+               United | 2026-08-06 | Kingdom | [Apply](https://visasponsor.jobs/api/jobs/c31b49df53de421c9285c6bc2fdc4f96/Nursery-Practitioner-Jobs-2026-Visa-Sponsorship-Available) |
+| Naija UK Connect Limited | Nursery Practitioner Visa Sponsorship Available | Edinburgh,  
+               Scotland,  
+               United | 2026-08-06 | Kingdom | [Apply](https://visasponsor.jobs/api/jobs/66c444118248410186bae45ea22ad9e3/Nursery-Practitioner-Visa-Sponsorship-Available) |
+| Techwaka | Consultant In Respiratory Medicine – Nottinghamshire (Visa Sponsorship Available | York,  
+               England,  
+               United | 2026-08-06 | Kingdom | [Apply](https://visasponsor.jobs/api/jobs/6e508e6b63fe4be5881c6aa772e8dcb1/Consultant-In-Respiratory-Medicine-Nottinghamshire-(Visa-Sponsorship-Available) |
+| Naija UK Connect Limited | Head Chef Jobs 2026 – Visa Sponsorship Available | Coventry,  
+               England,  
+               United | 2026-08-06 | Kingdom | [Apply](https://visasponsor.jobs/api/jobs/41e00137a0814c02a98754d73729ca99/Head-Chef-Jobs-2026-Visa-Sponsorship-Available) |
+| Secfix | Senior Product Designer |  | 2026-08-04 | Remote-Europe | [Apply](https://www.arbeitnow.com/jobs/companies/secfix/senior-product-designer-berlin-51713) |
+| Techwaka | Clinical Negligence Associate (Visa Sponsorship Available | Liverpool,  
+               England,  
+               United | 2026-08-05 | Kingdom | [Apply](https://visasponsor.jobs/api/jobs/a219c8e3072d4c28a2f29c207df058d7/Clinical-Negligence-Associate-(Visa-Sponsorship-Available) |
+| Taktile | Senior Technical Recruiter | Berlin | 2026-08-04 | Office | [Apply](https://www.arbeitnow.com/jobs/companies/taktile/senior-technical-recruiter-berlin-339549) |
+| Augustus | (Senior) Software Engineer |  | 2026-08-03 | Berlin | [Apply](https://www.arbeitnow.com/jobs/companies/augustus/senior-software-engineer-berlin-102253) |
+| Augustus | (Senior) DevOps Engineer |  | 2026-08-03 | Berlin | [Apply](https://www.arbeitnow.com/jobs/companies/augustus/senior-devops-engineer-berlin-411573) |
+| Augustus | Internship |  | 2026-08-03 | Berlin | [Apply](https://www.arbeitnow.com/jobs/companies/augustus/internship-berlin-64787) |
+| Augustus | Growth Associate |  | 2026-08-03 | Berlin | [Apply](https://www.arbeitnow.com/jobs/companies/augustus/growth-associate-berlin-278224) |
+| Augustus | Office & Events Working Student |  | 2026-08-03 | Berlin | [Apply](https://www.arbeitnow.com/jobs/companies/augustus/office-events-working-student-berlin-258568) |
+| JustPlay GmbH | Executive & Accounting Assistant (all genders) | Munich | 2026-08-02 | (Hybrid) | [Apply](https://www.arbeitnow.com/jobs/companies/justplay-gmbh/executive-accounting-assistant-all-genders-munich-318095) |
+| JustPlay GmbH | Senior UX/UI Designer (all genders) | Berlin | 2026-08-02 | (Hybrid) | [Apply](https://www.arbeitnow.com/jobs/companies/justplay-gmbh/senior-ux-ui-designer-all-genders-berlin-84776) |
+| JustPlay GmbH | Lead UX/UI Designer (all genders) | Berlin | 2026-08-02 | (Hybrid) | [Apply](https://www.arbeitnow.com/jobs/companies/justplay-gmbh/lead-ux-ui-designer-all-genders-berlin-400541) |
+| JustPlay GmbH | Employer Branding Manager (all genders) | Berlin | 2026-08-02 | (Hybrid) | [Apply](https://www.arbeitnow.com/jobs/companies/justplay-gmbh/employer-branding-manager-all-genders-berlin-402629) |
+| JustPlay GmbH | Developer Experience Engineer (all genders) | Berlin | 2026-08-02 | (Hybrid) | [Apply](https://www.arbeitnow.com/jobs/companies/justplay-gmbh/developer-experience-engineer-all-genders-berlin-90492) |
+| JustPlay GmbH | Senior Data Scientist (all genders) | Berlin | 2026-08-02 | (Hybrid) | [Apply](https://www.arbeitnow.com/jobs/companies/justplay-gmbh/senior-data-scientist-all-genders-berlin-146373) |
+| Clera | Founding Engineer |  | 2026-08-02 | Berlin | [Apply](https://www.arbeitnow.com/jobs/companies/clera/founding-engineer-berlin-212944) |
+| N26 | Senior Manager of Regulatory Project Management | Berlin,  
+               | 2026-08-03 | Germany | [Apply](https://visasponsor.jobs/api/jobs/029bcd7e9b3b4346bbcbd4e1689bbc42/Senior-Manager-of-Regulatory-Project-Management) |
 | Datadog | Partner Solutions Architect (Pan-EMEA GSI) | Lisbon, | 2026-07-31 | Portugal | [Apply](https://www.arbeitnow.co.uk/jobs/companies/datadog/partner-solutions-architect-pan-emea-gsi-lisbon-portugal-192493) |
 | AML RightSource | Experienced AML Investigator - Financial Crimes (Hybrid) | Highland,  
                California,  
@@ -594,5 +634,5 @@ We encourage you to engage with the community, share helpful tips, and support o
 | adjoe | QA Engineer (f/m/d) | Hamburg, Germany | February 28, 2024 | 🇩🇪 | [Apply](https://adjoe.io/company/careers/?j_id=f46b07a1-4a9d-4f09-a076-56c74c3de460) |
 | justtrack | QA Engineer (f/m/d) | Hamburg, Germany | February 4, 2024 | 🇩🇪 | [Apply](https://justtrack.io/career/?j_id=2795eebb-e23f-41a6-a42f-6785cb73871e) |
 ---
-Last updated: Mon Aug 10 13:35:36 UTC 2026
+Last updated: Tue Aug 11 13:33:36 UTC 2026
 *Note: This list is automatically updated every day. Be sure to check back often for new job opportunities!*
