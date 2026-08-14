@@ -4,6 +4,11 @@ We encourage you to engage with the community, share helpful tips, and support o
 
 | Company | Job Title | Location | Date Posted | Flag | Application Link |
 | --- | --- | --- | --- | --- | --- |
+| hellofresh | Senior Marketing Automation Engineer (all genders) | Berlin, | 2026-08-12 | Berlin | [Apply](https://www.arbeitnow.com/jobs/companies/hellofresh/senior-marketing-automation-engineer-all-genders-berlin-berlin-115083) |
+| SumUp | Engineering Manager - Website | Berlin, | 2026-08-12 | Germany | [Apply](https://www.arbeitnow.com/jobs/companies/sumup/engineering-manager-website-berlin-395378) |
+| Naija UK Connect Limited | Housekeeping Attendant Jobs 2026 | Visa Sponsorship Available | London,  
+               England,  
+               United | 2026-08-12 | Kingdom | [Apply](https://visasponsor.jobs/api/jobs/6e970b6415a4492f8f525d11709e2e2f/Housekeeping-Attendant-Jobs-2026-Visa-Sponsorship-Available) |
 | Artie Technologies | Product Engineer | San Francisco, California, United | 2026-08-11 | States | [Apply](https://jobs.ashbyhq.com/artie/02414b41-4bd5-4ace-9f26-d0d087861155) |
 | Artie Technologies | Senior Software Engineer | San Francisco, California, United | 2026-08-11 | States | [Apply](https://jobs.ashbyhq.com/artie/9a743ac5-2228-4522-895f-139dac5426a2) |
 | Artie Technologies | Senior Business Development Representative - Enterprise | San Francisco, California, United | 2026-08-11 | States | [Apply](https://jobs.ashbyhq.com/artie/328d888f-3b88-4c1a-a874-12e7b56c288d) |
@@ -641,5 +646,5 @@ We encourage you to engage with the community, share helpful tips, and support o
 | adjoe | QA Engineer (f/m/d) | Hamburg, Germany | February 28, 2024 | 🇩🇪 | [Apply](https://adjoe.io/company/careers/?j_id=f46b07a1-4a9d-4f09-a076-56c74c3de460) |
 | justtrack | QA Engineer (f/m/d) | Hamburg, Germany | February 4, 2024 | 🇩🇪 | [Apply](https://justtrack.io/career/?j_id=2795eebb-e23f-41a6-a42f-6785cb73871e) |
 ---
-Last updated: Thu Aug 13 13:37:17 UTC 2026
+Last updated: Fri Aug 14 13:32:43 UTC 2026
 *Note: This list is automatically updated every day. Be sure to check back often for new job opportunities!*
