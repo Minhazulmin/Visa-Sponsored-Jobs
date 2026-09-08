@@ -3,68 +3,225 @@ name: Visa-Sponsored Job Listings
 on:
   push:
     branches:
-      - main  # Trigger on push to main branch
-  workflow_dispatch:  # Allow manual trigger
+      - main
+
+  workflow_dispatch:
+
   schedule:
-    - cron: '6 12 * * *'  # Run daily at 12:06 UTC
+    - cron: "6 12 * * *" # Every day at 12:06 UTC
+
+permissions:
+  contents: write
+
+concurrency:
+  group: visa-job-list-update
+  cancel-in-progress: true
 
 jobs:
   generate-job-list:
     runs-on: ubuntu-latest
 
     steps:
+      # --------------------------------------------------
+      # Checkout
+      # --------------------------------------------------
       - name: Checkout Repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
         with:
-          fetch-depth: 0  # Ensure entire history is fetched for accurate commit operations
+          fetch-depth: 0
 
+      # --------------------------------------------------
+      # Fetch latest jobs
+      # --------------------------------------------------
       - name: Fetch Latest Job Data
         run: |
-          # Fetch the latest job data from the external source and save as jobList.json
-          curl -s https://visajobs.xyz/db.json -o jobList.json
-      - name: Parse jobList.json and Update README
-        id: parse-json
+          set -e
+
+          echo "Downloading latest job data..."
+
+          curl -fsSL \
+            --retry 3 \
+            --retry-delay 5 \
+            --connect-timeout 15 \
+            --max-time 60 \
+            https://visajobs.xyz/db.json \
+            -o jobList.json
+
+          echo "Validating JSON..."
+
+          jq empty jobList.json
+
+          echo "Job data successfully downloaded."
+
+      # --------------------------------------------------
+      # Generate job table
+      # --------------------------------------------------
+      - name: Generate Job Table
         run: |
-          # Create and update the README file with a dynamic list of job opportunities
-          cat << EOF > README.md
+          set -e
+
+          JOB_TABLE="$(mktemp)"
+
+          echo "| Company | Job Title | Location | Date Posted | Flag | Application Link |" > "$JOB_TABLE"
+          echo "| --- | --- | --- | --- | --- | --- |" >> "$JOB_TABLE"
+
+          jq -r '
+            def clean:
+              tostring
+              | gsub("[\\r\\n]+"; " ")
+              | gsub("[[:space:]]+"; " ")
+              | gsub("\\|"; "\\\\|")
+              | sub("^ +"; "")
+              | sub(" +$"; "");
+
+            def location:
+              (.location // "")
+              | clean;
+
+            def country:
+              (.location // "")
+              | clean
+              | split(" ")
+              | last;
+
+            def city:
+              (.location // "")
+              | clean
+              | split(" ")
+              | .[:-1]
+              | join(" ");
+
+            .[]
+            |
+            "| "
+            + ((.company // "") | clean)
+            + " | "
+            + ((.position // "") | clean)
+            + " | "
+            + (city)
+            + " | "
+            + ((.post_date // "") | clean)
+            + " | "
+            + (country)
+            + " | "
+            + "[Apply]("
+            + ((.description // "") | tostring)
+            + ") |"
+          ' jobList.json >> "$JOB_TABLE"
+
+          # ------------------------------------------------
+          # Create README template if it does not exist
+          # ------------------------------------------------
+          if [ ! -f README.md ]; then
+
+            cat > README.md <<'EOF'
           # Daily List of Visa-Sponsored Job Opportunities
-          Welcome to our repository, where we provide a regularly updated list of visa-sponsored job opportunities. This list is refreshed daily to showcase the most recent job openings across various companies and locations worldwide.
-          We encourage you to engage with the community, share helpful tips, and support one another throughout the job search process. If you find this resource valuable, please consider starring the repository and sharing it with others.
-       
-          EOF
-          # Add table header for job list
-          echo "| Company | Job Title | Location | Date Posted | Flag | Application Link |" >> README.md
-          echo "| --- | --- | --- | --- | --- | --- |" >> README.md
-          # Loop through each job and append to README in markdown table format
-          jq -r '.[] | 
-            "| " + .company + 
-            " | " + .position + 
-            " | " + (.location | split(" ")[:-1] | join(" ")) + 
-            " | " + .post_date + 
-            " | " + (.location | split(" ")[-1]) + 
-            " | " + "[Apply](" + .description + ")" + 
-            " |"' jobList.json >> README.md
-          # Add last updated timestamp
-          cat << EOF >> README.md
+
+          Welcome to our repository, where we provide a regularly updated list of visa-sponsored job opportunities.
+
+          This list is automatically refreshed daily to showcase recent job openings across companies and locations worldwide.
+
+          We encourage you to engage with the community, share helpful tips, and support one another throughout the job search process.
+
+          If you find this resource valuable, please consider starring the repository and sharing it with others.
+
+          ## Job Opportunities
+
+          <!-- JOB_LIST_START -->
+
+          <!-- JOB_LIST_END -->
+
           ---
-          Last updated: $(date -u)
-          *Note: This list is automatically updated every day. Be sure to check back often for new job opportunities!*
+
+          **Last updated:** <!-- LAST_UPDATED -->
+
+          > This list is automatically updated every day.
           EOF
-      - name: Commit and Push Changes (If Any)
-        run: |
-          # Configure Git settings for automated commits
-          git config user.name "Automated Workflow"
-          git config user.email "actions@users.noreply.github.com"
-          
-          # Stage changes to the README file
-          git add README.md
-          # Check if there are any changes to commit
-          if git diff --cached --quiet; then
-            echo "No changes detected. Skipping commit and push."
-            exit 0
+
           fi
-          # Commit and push the changes if updates are present
-          timestamp=$(date -u)
-          git commit -m "Updated job list: ${timestamp}"
-          git pull
-          git push
+
+          # ------------------------------------------------
+          # Make sure markers exist
+          # ------------------------------------------------
+          if ! grep -q "<!-- JOB_LIST_START -->" README.md; then
+            echo "ERROR: JOB_LIST_START marker not found in README.md"
+            exit 1
+          fi
+
+          if ! grep -q "<!-- JOB_LIST_END -->" README.md; then
+            echo "ERROR: JOB_LIST_END marker not found in README.md"
+            exit 1
+          fi
+
+          # ------------------------------------------------
+          # Replace ONLY the job table
+          # ------------------------------------------------
+          python3 <<'PY'
+          from pathlib import Path
+
+          readme = Path("README.md")
+          job_table = Path("$JOB_TABLE").read_text()
+
+          content = readme.read_text()
+
+          start_marker = "<!-- JOB_LIST_START -->"
+          end_marker = "<!-- JOB_LIST_END -->"
+
+          start = content.index(start_marker) + len(start_marker)
+          end = content.index(end_marker)
+
+          new_content = (
+              content[:start]
+              + "\n\n"
+              + job_table.rstrip()
+              + "\n\n"
+              + content[end:]
+          )
+
+          readme.write_text(new_content)
+          PY
+
+          # ------------------------------------------------
+          # Update timestamp only when job data changes
+          # ------------------------------------------------
+          CURRENT_TIME="$(date -u '+%Y-%m-%d %H:%M UTC')"
+
+          sed -i \
+            "s/\*\*Last updated:\*\* <!-- LAST_UPDATED -->/**Last updated:** $CURRENT_TIME/" \
+            README.md
+
+          rm -f "$JOB_TABLE"
+
+          echo "README generated successfully."
+
+      # --------------------------------------------------
+      # Check changes
+      # --------------------------------------------------
+      - name: Check for Changes
+        id: changes
+        run: |
+          git add README.md
+
+          if git diff --cached --quiet; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+            echo "No changes detected."
+          else
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+            echo "Changes detected."
+            git diff --cached --stat
+          fi
+
+      # --------------------------------------------------
+      # Commit & Push
+      # --------------------------------------------------
+      - name: Commit and Push Changes
+        if: steps.changes.outputs.changed == 'true'
+        run: |
+          set -e
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git commit -m "chore: update visa-sponsored job listings"
+
+          git push origin HEAD:main
