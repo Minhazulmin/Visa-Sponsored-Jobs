@@ -1,12 +1,18 @@
-# Daily List of Visa-Sponsored Job Opportunities
-Welcome to our repository, where we provide a regularly updated list of visa-sponsored job opportunities. This list is refreshed daily to showcase the most recent job openings across various companies and locations worldwide.
-We encourage you to engage with the community, share helpful tips, and support one another throughout the job search process. If you find this resource valuable, please consider starring the repository and sharing it with others.
+# 🌍 Daily List of Visa-Sponsored Job Opportunities
 
-| Company | Job Title | Location | Date Posted | Flag | Application Link |
-| --- | --- | --- | --- | --- | --- |
+Welcome to our repository, where we provide a regularly updated list of **visa-sponsored job opportunities** from companies and locations around the world.
+
+This list is automatically refreshed every day with the latest available opportunities.
+
+> 💡 **Tip:** Check the application link for each position to view the full job description and application requirements.
+
+## 💼 Job Opportunities
+
+| Company | Job Title | Location | Date Posted | Flag | Application |
+| :--- | :--- | :--- | :--- | :---: | :--- |
 | hellofresh | Senior Marketing Automation Engineer (all genders) | Berlin, | 2026-08-12 | Berlin | [Apply](https://www.arbeitnow.com/jobs/companies/hellofresh/senior-marketing-automation-engineer-all-genders-berlin-berlin-115083) |
 | SumUp | Engineering Manager - Website | Berlin, | 2026-08-12 | Germany | [Apply](https://www.arbeitnow.com/jobs/companies/sumup/engineering-manager-website-berlin-395378) |
-| Naija UK Connect Limited | Housekeeping Attendant Jobs 2026 | Visa Sponsorship Available | London,  
+| Naija UK Connect Limited | Housekeeping Attendant Jobs 2026 \| Visa Sponsorship Available | London,  
                England,  
                United | 2026-08-12 | Kingdom | [Apply](https://visasponsor.jobs/api/jobs/6e970b6415a4492f8f525d11709e2e2f/Housekeeping-Attendant-Jobs-2026-Visa-Sponsorship-Available) |
 | Artie Technologies | Product Engineer | San Francisco, California, United | 2026-08-11 | States | [Apply](https://jobs.ashbyhq.com/artie/02414b41-4bd5-4ace-9f26-d0d087861155) |
@@ -16,15 +22,15 @@ We encourage you to engage with the community, share helpful tips, and support o
 | Medical Jobs Australia | Registered Nurse (Emergency &amp; Acute) - Permanent Contract - North East Tasmania - Visa Sponsorship Available! | Launceston,  
                Tasmania,  
                | 2026-08-11 | Australia | [Apply](https://visasponsor.jobs/api/jobs/e5e108d2b4a446a090ebe4136928f27c/Registered-Nurse-(Emergency-&amp;-Acute)-Permanent-Contract-North-East-Tasmania-Visa-Sponsorship-Available!) |
-| Clera | Account Executive |  | 2026-08-08 | Munich | [Apply](https://www.arbeitnow.com/jobs/companies/clera/account-executive-munich-336717) |
+| Clera | Account Executive | Munich | 2026-08-08 | 🌍 | [Apply](https://www.arbeitnow.com/jobs/companies/clera/account-executive-munich-336717) |
 | hellofresh | Senior Product Designer, New Ventures (f/m/x) | Berlin, | 2026-08-08 | Berlin | [Apply](https://www.arbeitnow.com/jobs/companies/hellofresh/senior-product-designer-new-ventures-berlin-berlin-382449) |
 | HelloFresh | Growth Operations &amp; Campaigns Manager (Junior | Kingston upon hull,  
                England,  
                United | 2026-08-08 | Kingdom | [Apply](https://visasponsor.jobs/api/jobs/c0d0e369b8a04c2999ee3473b97ca6dc/Growth-Operations-&amp;-Campaigns-Manager-(Junior) |
 | JustPlay GmbH | QA Lead (all genders) | Munich | 2026-08-06 | (Hybrid) | [Apply](https://www.arbeitnow.com/jobs/companies/justplay-gmbh/qa-lead-all-genders-munich-8475) |
 | hellofresh | Senior Cloud Security Engineer (m,f,x) | Berlin, | 2026-08-06 | Berlin | [Apply](https://www.arbeitnow.com/jobs/companies/hellofresh/senior-cloud-security-engineer-mfx-berlin-berlin-196412) |
-| Clera | Full Stack Engineer |  | 2026-08-06 | remote | [Apply](https://www.arbeitnow.com/jobs/companies/clera/remote-full-stack-engineer-383585) |
-| remotecom | Senior Mobility Specialist - Immigration Lawyer |  | 2026-08-05 |  | [Apply](https://www.arbeitnow.com/jobs/companies/remotecom/senior-mobility-specialist-immigration-lawyer-173940) |
+| Clera | Full Stack Engineer | remote | 2026-08-06 | 🌍 | [Apply](https://www.arbeitnow.com/jobs/companies/clera/remote-full-stack-engineer-383585) |
+| remotecom | Senior Mobility Specialist - Immigration Lawyer |  | 2026-08-05 | 🌍 | [Apply](https://www.arbeitnow.com/jobs/companies/remotecom/senior-mobility-specialist-immigration-lawyer-173940) |
 | Naija UK Connect Limited | Nursery Practitioner Jobs 2026 – Visa Sponsorship Available | Kingston upon hull,  
                England,  
                United | 2026-08-06 | Kingdom | [Apply](https://visasponsor.jobs/api/jobs/c31b49df53de421c9285c6bc2fdc4f96/Nursery-Practitioner-Jobs-2026-Visa-Sponsorship-Available) |
@@ -37,50 +43,50 @@ We encourage you to engage with the community, share helpful tips, and support o
 | Naija UK Connect Limited | Head Chef Jobs 2026 – Visa Sponsorship Available | Coventry,  
                England,  
                United | 2026-08-06 | Kingdom | [Apply](https://visasponsor.jobs/api/jobs/41e00137a0814c02a98754d73729ca99/Head-Chef-Jobs-2026-Visa-Sponsorship-Available) |
-| Secfix | Senior Product Designer |  | 2026-08-04 | Remote-Europe | [Apply](https://www.arbeitnow.com/jobs/companies/secfix/senior-product-designer-berlin-51713) |
+| Secfix | Senior Product Designer | Remote-Europe | 2026-08-04 | 🌍 | [Apply](https://www.arbeitnow.com/jobs/companies/secfix/senior-product-designer-berlin-51713) |
 | Techwaka | Clinical Negligence Associate (Visa Sponsorship Available | Liverpool,  
                England,  
                United | 2026-08-05 | Kingdom | [Apply](https://visasponsor.jobs/api/jobs/a219c8e3072d4c28a2f29c207df058d7/Clinical-Negligence-Associate-(Visa-Sponsorship-Available) |
 | Taktile | Senior Technical Recruiter | Berlin | 2026-08-04 | Office | [Apply](https://www.arbeitnow.com/jobs/companies/taktile/senior-technical-recruiter-berlin-339549) |
-| Augustus | (Senior) Software Engineer |  | 2026-08-03 | Berlin | [Apply](https://www.arbeitnow.com/jobs/companies/augustus/senior-software-engineer-berlin-102253) |
-| Augustus | (Senior) DevOps Engineer |  | 2026-08-03 | Berlin | [Apply](https://www.arbeitnow.com/jobs/companies/augustus/senior-devops-engineer-berlin-411573) |
-| Augustus | Internship |  | 2026-08-03 | Berlin | [Apply](https://www.arbeitnow.com/jobs/companies/augustus/internship-berlin-64787) |
-| Augustus | Growth Associate |  | 2026-08-03 | Berlin | [Apply](https://www.arbeitnow.com/jobs/companies/augustus/growth-associate-berlin-278224) |
-| Augustus | Office & Events Working Student |  | 2026-08-03 | Berlin | [Apply](https://www.arbeitnow.com/jobs/companies/augustus/office-events-working-student-berlin-258568) |
+| Augustus | (Senior) Software Engineer | Berlin | 2026-08-03 | 🌍 | [Apply](https://www.arbeitnow.com/jobs/companies/augustus/senior-software-engineer-berlin-102253) |
+| Augustus | (Senior) DevOps Engineer | Berlin | 2026-08-03 | 🌍 | [Apply](https://www.arbeitnow.com/jobs/companies/augustus/senior-devops-engineer-berlin-411573) |
+| Augustus | Internship | Berlin | 2026-08-03 | 🌍 | [Apply](https://www.arbeitnow.com/jobs/companies/augustus/internship-berlin-64787) |
+| Augustus | Growth Associate | Berlin | 2026-08-03 | 🌍 | [Apply](https://www.arbeitnow.com/jobs/companies/augustus/growth-associate-berlin-278224) |
+| Augustus | Office & Events Working Student | Berlin | 2026-08-03 | 🌍 | [Apply](https://www.arbeitnow.com/jobs/companies/augustus/office-events-working-student-berlin-258568) |
 | JustPlay GmbH | Executive & Accounting Assistant (all genders) | Munich | 2026-08-02 | (Hybrid) | [Apply](https://www.arbeitnow.com/jobs/companies/justplay-gmbh/executive-accounting-assistant-all-genders-munich-318095) |
 | JustPlay GmbH | Senior UX/UI Designer (all genders) | Berlin | 2026-08-02 | (Hybrid) | [Apply](https://www.arbeitnow.com/jobs/companies/justplay-gmbh/senior-ux-ui-designer-all-genders-berlin-84776) |
 | JustPlay GmbH | Lead UX/UI Designer (all genders) | Berlin | 2026-08-02 | (Hybrid) | [Apply](https://www.arbeitnow.com/jobs/companies/justplay-gmbh/lead-ux-ui-designer-all-genders-berlin-400541) |
 | JustPlay GmbH | Employer Branding Manager (all genders) | Berlin | 2026-08-02 | (Hybrid) | [Apply](https://www.arbeitnow.com/jobs/companies/justplay-gmbh/employer-branding-manager-all-genders-berlin-402629) |
 | JustPlay GmbH | Developer Experience Engineer (all genders) | Berlin | 2026-08-02 | (Hybrid) | [Apply](https://www.arbeitnow.com/jobs/companies/justplay-gmbh/developer-experience-engineer-all-genders-berlin-90492) |
 | JustPlay GmbH | Senior Data Scientist (all genders) | Berlin | 2026-08-02 | (Hybrid) | [Apply](https://www.arbeitnow.com/jobs/companies/justplay-gmbh/senior-data-scientist-all-genders-berlin-146373) |
-| Clera | Founding Engineer |  | 2026-08-02 | Berlin | [Apply](https://www.arbeitnow.com/jobs/companies/clera/founding-engineer-berlin-212944) |
+| Clera | Founding Engineer | Berlin | 2026-08-02 | 🌍 | [Apply](https://www.arbeitnow.com/jobs/companies/clera/founding-engineer-berlin-212944) |
 | N26 | Senior Manager of Regulatory Project Management | Berlin,  
                | 2026-08-03 | Germany | [Apply](https://visasponsor.jobs/api/jobs/029bcd7e9b3b4346bbcbd4e1689bbc42/Senior-Manager-of-Regulatory-Project-Management) |
 | Datadog | Partner Solutions Architect (Pan-EMEA GSI) | Lisbon, | 2026-07-31 | Portugal | [Apply](https://www.arbeitnow.co.uk/jobs/companies/datadog/partner-solutions-architect-pan-emea-gsi-lisbon-portugal-192493) |
 | AML RightSource | Experienced AML Investigator - Financial Crimes (Hybrid) | Highland,  
                California,  
                United | 2026-08-01 | States | [Apply](https://visasponsor.jobs/api/jobs/e63151b3818e4e53ad9f6ca309205a02/Experienced-AML-Investigator-Financial-Crimes-(Hybrid)) |
-| hellofresh | Senior Lifecycle Marketing Manager (all genders) |  | 2026-07-30 | Berlin | [Apply](https://www.arbeitnow.com/jobs/companies/hellofresh/senior-lifecycle-marketing-manager-all-genders-berlin-252615) |
-| Stripe | Account Executive, Bridge |  | 2026-07-31 | London | [Apply](https://www.arbeitnow.co.uk/jobs/companies/stripe/account-executive-bridge-london-209229) |
+| hellofresh | Senior Lifecycle Marketing Manager (all genders) | Berlin | 2026-07-30 | 🌍 | [Apply](https://www.arbeitnow.com/jobs/companies/hellofresh/senior-lifecycle-marketing-manager-all-genders-berlin-252615) |
+| Stripe | Account Executive, Bridge | London | 2026-07-31 | 🌍 | [Apply](https://www.arbeitnow.co.uk/jobs/companies/stripe/account-executive-bridge-london-209229) |
 | Naija UK Connect Limited | Nursery Assistant Visa Sponsorship Available | Kingston upon hull,  
                England,  
                United | 2026-07-31 | Kingdom | [Apply](https://visasponsor.jobs/api/jobs/6ba3573031fb44c0b63c342858f2f5d0/Nursery-Assistant-Visa-Sponsorship-Available) |
-| sumup | Senior Talent Acquisition Partner |  | 2026-07-30 | London | [Apply](https://www.arbeitnow.co.uk/jobs/companies/sumup/senior-talent-acquisition-partner-london-397641) |
-| Spotify | Fullstack Engineer - Subscriptions |  | 2026-07-29 | London | [Apply](https://www.arbeitnow.co.uk/jobs/companies/spotify/fullstack-engineer-subscriptions-london-229822) |
+| sumup | Senior Talent Acquisition Partner | London | 2026-07-30 | 🌍 | [Apply](https://www.arbeitnow.co.uk/jobs/companies/sumup/senior-talent-acquisition-partner-london-397641) |
+| Spotify | Fullstack Engineer - Subscriptions | London | 2026-07-29 | 🌍 | [Apply](https://www.arbeitnow.co.uk/jobs/companies/spotify/fullstack-engineer-subscriptions-london-229822) |
 | N26 | Site Reliability Engineer - Observability | Berlin,  
                | 2026-07-30 | Germany | [Apply](https://visasponsor.jobs/api/jobs/00200bc5f6134c239cb4447e1f1bf40c/Site-Reliability-Engineer-Observability) |
 | SumUp | iOS Engineer - Mobile Platform | Cologne, North Rhine-Westphalia, | 2026-07-28 | Germany | [Apply](https://www.arbeitnow.com/jobs/companies/sumup/ios-engineer-mobile-platform-cologne-75181) |
-| sumup | Senior Backend Engineer - Commercial Systems and Intelligence |  | 2026-07-28 | Berlin | [Apply](https://www.arbeitnow.com/jobs/companies/sumup/senior-backend-engineer-commercial-systems-and-intelligence-berlin-204665) |
-| Catawiki | Senior Data Scientist - Machine Learning |  | 2026-07-29 | Portugal | [Apply](https://relocate.me/portugal/lisbon/catawiki/senior-data-scientist-machine-learning-10277) |
-| Catawiki | Senior Product Manager - Demand |  | 2026-07-29 | Netherlands | [Apply](https://relocate.me/netherlands/amsterdam/catawiki/senior-product-manager-demand-10278) |
+| sumup | Senior Backend Engineer - Commercial Systems and Intelligence | Berlin | 2026-07-28 | 🌍 | [Apply](https://www.arbeitnow.com/jobs/companies/sumup/senior-backend-engineer-commercial-systems-and-intelligence-berlin-204665) |
+| Catawiki | Senior Data Scientist - Machine Learning | Portugal | 2026-07-29 | 🌍 | [Apply](https://relocate.me/portugal/lisbon/catawiki/senior-data-scientist-machine-learning-10277) |
+| Catawiki | Senior Product Manager - Demand | Netherlands | 2026-07-29 | 🌍 | [Apply](https://relocate.me/netherlands/amsterdam/catawiki/senior-product-manager-demand-10278) |
 | sumup | Senior Backend Engineer (Golang) | Vilnius, | 2026-07-28 | Lithuania | [Apply](https://www.arbeitnow.co.uk/jobs/companies/sumup/senior-backend-engineer-golang-vilnius-lithuania-443469) |
 | sumup | Senior Backend Engineer- Global Bank | Sofia, | 2026-07-28 | Bulgaria | [Apply](https://www.arbeitnow.co.uk/jobs/companies/sumup/senior-backend-engineer-global-bank-sofia-bulgaria-138769) |
 | sumup | Senior Backend Engineer - Cards | Berlin, | 2026-07-28 | Germany | [Apply](https://www.arbeitnow.co.uk/jobs/companies/sumup/senior-backend-engineer-cards-berlin-germany-217561) |
 | Wispr Flow | Platform Engineer, Billing Systems | San francisco,  
                California,  
                United | 2026-07-28 | States | [Apply](https://visasponsor.jobs/api/jobs/6e18af7b8a4f47918a5ccded4e793992/Platform-Engineer-Billing-Systems) |
-| hellofresh | Senior Manager, Global Price & Discount Strategy |  | 2026-07-25 | Berlin | [Apply](https://www.arbeitnow.com/jobs/companies/hellofresh/senior-manager-global-price-discount-strategy-berlin-376787) |
-| hellofresh | Senior GRC Analyst (m,f,x) |  | 2026-07-22 | Berlin | [Apply](https://www.arbeitnow.com/jobs/companies/hellofresh/senior-grc-analyst-mfx-berlin-180017) |
+| hellofresh | Senior Manager, Global Price & Discount Strategy | Berlin | 2026-07-25 | 🌍 | [Apply](https://www.arbeitnow.com/jobs/companies/hellofresh/senior-manager-global-price-discount-strategy-berlin-376787) |
+| hellofresh | Senior GRC Analyst (m,f,x) | Berlin | 2026-07-22 | 🌍 | [Apply](https://www.arbeitnow.com/jobs/companies/hellofresh/senior-grc-analyst-mfx-berlin-180017) |
 | English 1 | Teach English : Entry-Level ESL Teacher | Leicester,  
                England,  
                United | 2026-07-27 | Kingdom | [Apply](https://visasponsor.jobs/api/jobs/cf5f38073aa542eeb2976a90fa4ecd91/Teach-English-:-Entry-Level-ESL-Teacher) |
@@ -89,10 +95,10 @@ We encourage you to engage with the community, share helpful tips, and support o
 | HealthcareLink Support | Community-Based Speech Pathologist - Visa Sponsorship Available | Adelaide,  
                South australia,  
                | 2026-07-27 | Australia | [Apply](https://visasponsor.jobs/api/jobs/5aabefa602e94522bc06ef2dd8983a8f/Community-Based-Speech-Pathologist-Visa-Sponsorship-Available) |
-| Workforce Australia | Registered Nurse - Emergency Department (ED) | Visa Sponsorship Available | Sydney,  
+| Workforce Australia | Registered Nurse - Emergency Department (ED) \| Visa Sponsorship Available | Sydney,  
                New south wales,  
                | 2026-07-27 | Australia | [Apply](https://visasponsor.jobs/api/jobs/71add359130e4c06912086755d746b0d/Registered-Nurse-Emergency-Department-(ED)-Visa-Sponsorship-Available) |
-| American Society of Neuroradiology | Interventional Radiologist – Austin, TX | Top-Tier Practice | Work-Life Balance + Growth | Austin,  
+| American Society of Neuroradiology | Interventional Radiologist – Austin, TX \| Top-Tier Practice \| Work-Life Balance + Growth | Austin,  
                Texas,  
                United | 2026-07-26 | States | [Apply](https://visasponsor.jobs/api/jobs/291d21704b674340af2c3707cde18425/Interventional-Radiologist-Austin-TX-Top-Tier-Practice-Work-Life-Balance-+-Growth) |
 | Civil Science | Civil Engineer - Public Works (PE) | Salt lake city,  
@@ -101,7 +107,7 @@ We encourage you to engage with the community, share helpful tips, and support o
 | Rehab Alliance | Certified Occupational Therapy Assistant - Per Diem | Oakland,  
                California,  
                United | 2026-07-26 | States | [Apply](https://visasponsor.jobs/api/jobs/5b52ea07808841088329db35e32c9d80/Certified-Occupational-Therapy-Assistant-Per-Diem) |
-| All Med Search | Dialysis Registered Nurses | Relocate to the USA | TN Visa Support | Calgary,  
+| All Med Search | Dialysis Registered Nurses \| Relocate to the USA \| TN Visa Support | Calgary,  
                Alberta,  
                | 2026-07-26 | Canada | [Apply](https://visasponsor.jobs/api/jobs/66adc5cb72294f3aa16446a1df008350/Dialysis-Registered-Nurses-Relocate-to-the-USA-TN-Visa-Support) |
 | University of Washington | Assistant Professor without tenure, Department of Pediatrics, Division of General Pediatrics | Seattle,  
@@ -110,7 +116,7 @@ We encourage you to engage with the community, share helpful tips, and support o
 | Wave Group | Senior Data Scientist (Forecasting) | London,  
                England,  
                United | 2026-07-26 | Kingdom | [Apply](https://visasponsor.jobs/api/jobs/fd7005a7b932426f8921a7f451e8db18/Senior-Data-Scientist-(Forecasting)) |
-| Richard Yu | Client Success Coach (CSM) |  | 2026-07-25 | Remote | [Apply](https://relocate.me/remote/remote/richard-yu/client-success-coach-csm-10272) |
+| Richard Yu | Client Success Coach (CSM) | Remote | 2026-07-25 | 🌍 | [Apply](https://relocate.me/remote/remote/richard-yu/client-success-coach-csm-10272) |
 | Numotion | Clinic Liaison | Yadkinville,  
                North carolina,  
                United | 2026-07-25 | States | [Apply](https://visasponsor.jobs/api/jobs/7302e689314a464a9bac8bc7e21d0921/Clinic-Liaison) |
@@ -191,7 +197,7 @@ We encourage you to engage with the community, share helpful tips, and support o
 | Bits | Commercial Finance Analyst – Fintech, Hybrid Impact | Wolverhampton,  
                England,  
                United | 2026-07-22 | Kingdom | [Apply](https://visasponsor.jobs/api/jobs/cfb783cbc3804ccca042d3146e86acec/Commercial-Finance-Analyst-Fintech-Hybrid-Impact) |
-| Product Pulse | Founding People &amp; Talent Lead |  | 2026-07-22 | Germany | [Apply](https://visasponsor.jobs/api/jobs/22f0dfe133ac47a292c291a20933f01b/Founding-People-&amp;-Talent-Lead) |
+| Product Pulse | Founding People &amp; Talent Lead | Germany | 2026-07-22 | 🌍 | [Apply](https://visasponsor.jobs/api/jobs/22f0dfe133ac47a292c291a20933f01b/Founding-People-&amp;-Talent-Lead) |
 | Source Medical, LLC. | IT Cardiology Opening in Ashland, KY | Ashland,  
                Kentucky,  
                United | 2026-07-22 | States | [Apply](https://visasponsor.jobs/api/jobs/b20daddf22fa4fecac35c03d274732e1/IT-Cardiology-Opening-in-Ashland-KY) |
@@ -205,7 +211,7 @@ We encourage you to engage with the community, share helpful tips, and support o
                Minnesota,  
                United | 2026-07-22 | States | [Apply](https://visasponsor.jobs/api/jobs/5556c174a09e44868bc218bbc7e03116/General-Outpatient-Neurologist) |
 | SumUp | Android Engineer - Engagement Mission | Berlin, Berlin, | 2026-07-21 | Germany | [Apply](https://www.arbeitnow.com/jobs/companies/sumup/android-engineer-engagement-mission-berlin-49378) |
-| Honeybee Hires | South Jordan, UT | Speech Language Pathologist (SLP) | Pediatric Clinic | South jordan,  
+| Honeybee Hires | South Jordan, UT \| Speech Language Pathologist (SLP) \| Pediatric Clinic | South jordan,  
                Utah,  
                United | 2026-07-21 | States | [Apply](https://visasponsor.jobs/api/jobs/ee11551cae494bf39ae496ad715197bc/South-Jordan-UT-Speech-Language-Pathologist-(SLP)-Pediatric-Clinic) |
 | Nutritious Lifestyles | Registered Dietitian/LDN/RD2Be | Saint augustine,  
@@ -220,13 +226,13 @@ We encourage you to engage with the community, share helpful tips, and support o
 | Medical Staff Talent | Voyage Doctor: Tax- Luxury Superyacht | Wolverhampton,  
                England,  
                United | 2026-07-21 | Kingdom | [Apply](https://visasponsor.jobs/api/jobs/551667cec9174bf38a4dc28f0a755307/Voyage-Doctor:-Tax-Luxury-Superyacht) |
-| Welltech | Head of Growth - Paid Social |  | 2026-07-20 | Cyprus | [Apply](https://relocate.me/cyprus/limassol/welltech/head-of-growth-paid-social-10274) |
-| Hydrosat | Platform Engineer |  | 2026-07-19 | Luxembourg | [Apply](https://careers.hydrosat.com/o/platform-engineer) |
+| Welltech | Head of Growth - Paid Social | Cyprus | 2026-07-20 | 🌍 | [Apply](https://relocate.me/cyprus/limassol/welltech/head-of-growth-paid-social-10274) |
+| Hydrosat | Platform Engineer | Luxembourg | 2026-07-19 | 🌍 | [Apply](https://careers.hydrosat.com/o/platform-engineer) |
 | LGG Advisors | AI Engineer | Porto, | 2026-07-19 | Portugal | [Apply](https://lggadvisors.zohorecruit.com/jobs/Careers/552115000006353011/AI-Engineer) |
 | DualEntry | Site Reliability Engineer (SRE) | Remote (NYC | 2026-07-19 | HQ) | [Apply](https://jobs.ashbyhq.com/dualentry/3a238aad-ae17-452e-b528-9933bffdfc46) |
 | JustPlay GmbH | Developer Experience Engineer | Berlin, | 2026-07-19 | Germany | [Apply](https://jobs.ashbyhq.com/justplay-gmbh/a738403a-6f44-41ca-b2c2-6c05b293bab6) |
 | AllSides | 3D Machine Learning Engineer | Bressanone, | 2026-07-19 | Italy | [Apply](https://allsides.onboard.org/jobs/6GQ7dRmv) |
-| Wypoon Technologies | AI Agent Engineer |  | 2026-07-19 | Netherlands | [Apply](https://jobs.eu.lever.co/wypoon/136cfee2-28f2-46b0-b634-99a563b9b059) |
+| Wypoon Technologies | AI Agent Engineer | Netherlands | 2026-07-19 | 🌍 | [Apply](https://jobs.eu.lever.co/wypoon/136cfee2-28f2-46b0-b634-99a563b9b059) |
 | Senvo | Founding Head of Engineering | Berlin, | 2026-07-19 | Germany | [Apply](https://www.arbeitnow.com/jobs/companies/senvo-gmbh/founding-head-of-engineering-berlin-71649) |
 | Urban Sports Club | Senior Backend Engineer (Golang) | Berlin, | 2026-07-18 | Germany | [Apply](https://www.arbeitnow.com/jobs/companies/urban-sports-club/senior-backend-engineer-all-genders-golang-berlin-211662) |
 | Distribusion Technologies | Senior Engineering Manager - Supply Domain | Berlin, | 2026-07-18 | Germany | [Apply](https://www.arbeitnow.com/jobs/companies/distribusion-technologies/senior-engineering-manager-supply-domain-all-genders-berlin-309048) |
@@ -287,7 +293,7 @@ We encourage you to engage with the community, share helpful tips, and support o
 | Meeveem Limited | Consultant in GA Psychiatry - EIP &amp; South LMHT + Golden | Nottingham,  
                England,  
                United | 2026-07-17 | Kingdom | [Apply](https://visasponsor.jobs/api/jobs/140b9baa4dce461591cdd8142184a867/Consultant-in-GA-Psychiatry-EIP-&amp;-South-LMHT-+-Golden) |
-| Picnic | Senior Software Engineer - Warehouse Systems |  | 2026-07-16 | Netherlands | [Apply](https://relocate.me/netherlands/amsterdam/picnic/senior-software-engineer-warehouse-systems-10262) |
+| Picnic | Senior Software Engineer - Warehouse Systems | Netherlands | 2026-07-16 | 🌍 | [Apply](https://relocate.me/netherlands/amsterdam/picnic/senior-software-engineer-warehouse-systems-10262) |
 | TheInnCollectionGroup3 | Head Chef - Live In | Wolverhampton,  
                England,  
                United | 2026-07-16 | Kingdom | [Apply](https://visasponsor.jobs/api/jobs/8b9fce356ce04aab91bd5bf331a562b9/Head-Chef-Live-In) |
@@ -297,8 +303,8 @@ We encourage you to engage with the community, share helpful tips, and support o
 | Plaistow Business Consultants Ltd | Global Orthopedic Surgeon | London,  
                England,  
                United | 2026-07-16 | Kingdom | [Apply](https://visasponsor.jobs/api/jobs/22f5a408356d4c11be9cecedf12e8b16/Global-Orthopedic-Surgeon) |
-| ALG  Talent Specialists | Aircraft Painter |  | 2026-07-16 | Singapore | [Apply](https://visasponsor.jobs/api/jobs/b794c2cb97574a0ca3222b8b4465fb84/Aircraft-Painter) |
-| SimScale GmbH | Principal Governance, Risk and Compliance (GRC) Architect |  | 2026-07-14 | Munich | [Apply](https://www.arbeitnow.com/jobs/companies/simscale-gmbh/principal-governance-risk-and-compliance-grc-architect-munich-313642) |
+| ALG  Talent Specialists | Aircraft Painter | Singapore | 2026-07-16 | 🌍 | [Apply](https://visasponsor.jobs/api/jobs/b794c2cb97574a0ca3222b8b4465fb84/Aircraft-Painter) |
+| SimScale GmbH | Principal Governance, Risk and Compliance (GRC) Architect | Munich | 2026-07-14 | 🌍 | [Apply](https://www.arbeitnow.com/jobs/companies/simscale-gmbh/principal-governance-risk-and-compliance-grc-architect-munich-313642) |
 | Optiver | C# Software Engineer | Sydney,  
                New south wales,  
                | 2026-07-15 | Australia | [Apply](https://visasponsor.jobs/api/jobs/24f623a5ab464621919b87d4fe72f570/C%23-Software-Engineer) |
@@ -321,15 +327,15 @@ We encourage you to engage with the community, share helpful tips, and support o
 | Healthcarelink | Community-Based Occupational Therapist - Visa Sponsorship Available | Adelaide,  
                South australia,  
                | 2026-07-06 | Australia | [Apply](https://visasponsor.jobs/api/jobs/b9393acf64ef45a0bbff26547ade8f11/Community-Based-Occupational-Therapist-Visa-Sponsorship-Available) |
-| C Teleport | Lead Software Engineer (Team Lead) - Billing Squad |  | 2026-07-05 | Netherlands | [Apply](https://relocate.me/netherlands/rotterdam/c-teleport/lead-software-engineer-team-lead-billing-squad-10270) |
-| PayPay Card | Automation QA Engineer |  | 2026-07-05 | Japan | [Apply](https://relocate.me/japan/tokyo/paypay-card/automation-qa-engineer-10182) |
+| C Teleport | Lead Software Engineer (Team Lead) - Billing Squad | Netherlands | 2026-07-05 | 🌍 | [Apply](https://relocate.me/netherlands/rotterdam/c-teleport/lead-software-engineer-team-lead-billing-squad-10270) |
+| PayPay Card | Automation QA Engineer | Japan | 2026-07-05 | 🌍 | [Apply](https://relocate.me/japan/tokyo/paypay-card/automation-qa-engineer-10182) |
 | Optiver | Global Mobility Manager | Amsterdam,  
                Noordholland,  
                | 2026-07-04 | Netherlands | [Apply](https://visasponsor.jobs/api/jobs/0402ad8f4d3946d89f9cf1da796f821a/Global-Mobility-Manager) |
 | Optiver | Senior End User Computing - Virtual Desktop Engineer (EUC - VDI) | Sydney,  
                New south wales,  
                | 2026-07-03 | Australia | [Apply](https://visasponsor.jobs/api/jobs/50f1f7a2f40a4a659756709b31152445/Senior-End-User-Computing-Virtual-Desktop-Engineer-(EUC-VDI)) |
-| The Global Move | 1000+ Curated Visa Sponsorship and Remote Tech Jobs (Paid Option) |  | 2026-07-02 | Remote | [Apply](https://relocate.me/remote/remote/the-global-move/1000-curated-visa-sponsorship-and-remote-tech-jobs-paid-option-10080) |
+| The Global Move | 1000+ Curated Visa Sponsorship and Remote Tech Jobs (Paid Option) | Remote | 2026-07-02 | 🌍 | [Apply](https://relocate.me/remote/remote/the-global-move/1000-curated-visa-sponsorship-and-remote-tech-jobs-paid-option-10080) |
 | Intelligent Health Care Australia | Full-Time Podiatrist - Sponsorship available | Port macquarie,  
                New south wales,  
                | 2026-06-30 | Australia | [Apply](https://visasponsor.jobs/api/jobs/14b8d7c3b0364145aed34b70d1341253/Full-Time-Podiatrist-Sponsorship-available) |
@@ -344,42 +350,42 @@ We encourage you to engage with the community, share helpful tips, and support o
 | N26 | Regulatory Operations Analyst | Berlin,  
                | 2026-06-28 | Germany | [Apply](https://visasponsor.jobs/api/jobs/560c0df1fcd24383afedc4f54449220b/Regulatory-Operations-Analyst) |
 | SumUp | Senior Backend Engineer - Golang | Berlin, Berlin, | 2026-06-26 | Germany | [Apply](https://www.arbeitnow.com/jobs/companies/sumup/senior-backend-engineer-golang-berlin-101948) |
-| Multiverse Computing | Research AI Director |  | 2026-06-27 | Spain | [Apply](https://relocate.me/spain/san-sebastian/multiverse-computing/research-ai-director-10268) |
+| Multiverse Computing | Research AI Director | Spain | 2026-06-27 | 🌍 | [Apply](https://relocate.me/spain/san-sebastian/multiverse-computing/research-ai-director-10268) |
 | Revolut | Internship Programme 2027: Information Security Engineer (Appsec) | Porto,  
                Porto,  
                | 2026-06-27 | Portugal | [Apply](https://visasponsor.jobs/api/jobs/fae41eb5d32749aa990109efa16b629f/Internship-Programme-2027:-Information-Security-Engineer-(Appsec)) |
-| PayPay Card | Backend Engineer |  | 2026-06-24 | Japan | [Apply](https://relocate.me/japan/tokyo/paypay-card/backend-engineer-10180) |
-| PayPay | Senior Product Manager |  | 2026-06-23 | Japan | [Apply](https://relocate.me/japan/tokyo/paypay/senior-product-manager-10236) |
+| PayPay Card | Backend Engineer | Japan | 2026-06-24 | 🌍 | [Apply](https://relocate.me/japan/tokyo/paypay-card/backend-engineer-10180) |
+| PayPay | Senior Product Manager | Japan | 2026-06-23 | 🌍 | [Apply](https://relocate.me/japan/tokyo/paypay/senior-product-manager-10236) |
 | Medical Jobs Australia | Cardiac Cath Lab Nurses - Permanent Role QLD - Sponsorship Available! | Launceston, Tasmania, | 2026-06-22 | Australia | [Apply](https://visasponsor.jobs/api/jobs/53047c9129354ebb9daa26caaaeef0db/Cardiac-Cath-Lab-Nurses-Permanent-Role-QLD-Sponsorship-Available!) |
 | Halter | Software Engineering Manager | New | 2026-06-21 | Zealand | [Apply](https://relocate.me/new-zealand/auckland/halter/software-engineering-manager-10239) |
-| Welltech | Staff Security Engineer |  | 2026-06-21 | Cyprus | [Apply](https://relocate.me/cyprus/limassol/welltech/staff-security-engineer-10265) |
+| Welltech | Staff Security Engineer | Cyprus | 2026-06-21 | 🌍 | [Apply](https://relocate.me/cyprus/limassol/welltech/staff-security-engineer-10265) |
 | N26 | ESG Analyst | Berlin, | 2026-06-21 | Germany | [Apply](https://visasponsor.jobs/api/jobs/4bc6a04053ae4a06b4c596a6ad2be3b3/ESG-Analyst) |
-| Welltech | Head of Product, Payments |  | 2026-06-19 | Cyprus | [Apply](https://relocate.me/cyprus/limassol/welltech/head-of-product-payments-10266) |
-| Hevy | Lead React Native Engineer |  | 2026-06-19 | Spain | [Apply](https://relocate.me/spain/barcelona/hevy/lead-react-native-engineer-10255) |
+| Welltech | Head of Product, Payments | Cyprus | 2026-06-19 | 🌍 | [Apply](https://relocate.me/cyprus/limassol/welltech/head-of-product-payments-10266) |
+| Hevy | Lead React Native Engineer | Spain | 2026-06-19 | 🌍 | [Apply](https://relocate.me/spain/barcelona/hevy/lead-react-native-engineer-10255) |
 | N26 | Team Lead Risk - ICAAP / ILAAP (Pillar 1) | Berlin, | 2026-06-19 | Germany | [Apply](https://visasponsor.jobs/api/jobs/68c9be1341234dd1a9606ff12549caee/Team-Lead-Risk-ICAAP-ILAAP-(Pillar-1)) |
 | N26 | Information Security Controls Manager - Cloud &amp; AI Governance | Berlin, | 2026-06-19 | Germany | [Apply](https://visasponsor.jobs/api/jobs/46389234377e4e13bb3b556c8217ed7c/Information-Security-Controls-Manager-Cloud-&amp;-AI-Governance) |
-| PayPay | Automation QA Engineer |  | 2026-06-18 | Japan | [Apply](https://relocate.me/japan/tokyo/paypay/automation-qa-engineer-10105) |
-| Picnic | Software Engineer - Consumer Products |  | 2026-06-18 | Netherlands | [Apply](https://relocate.me/netherlands/amsterdam/picnic/software-engineer-consumer-products-10256) |
-| PayPay Card | Platform Engineer |  | 2026-06-17 | Japan | [Apply](https://relocate.me/japan/tokyo/paypay-card/platform-engineer-10181) |
+| PayPay | Automation QA Engineer | Japan | 2026-06-18 | 🌍 | [Apply](https://relocate.me/japan/tokyo/paypay/automation-qa-engineer-10105) |
+| Picnic | Software Engineer - Consumer Products | Netherlands | 2026-06-18 | 🌍 | [Apply](https://relocate.me/netherlands/amsterdam/picnic/software-engineer-consumer-products-10256) |
+| PayPay Card | Platform Engineer | Japan | 2026-06-17 | 🌍 | [Apply](https://relocate.me/japan/tokyo/paypay-card/platform-engineer-10181) |
 | Marble | Co-Founder, CTO (Construction Robotics) | Noordholland, | 2026-06-17 | Netherlands | [Apply](https://visasponsor.jobs/api/jobs/898d38248ed4452282afc4dc497f5619/Co-Founder-CTO-(Construction-Robotics)) |
 | Workforce Australia | SOUS CHEF - THE WHARF - VISA SPONSORSHIP AVAILABLE | Sydney, New south wales, | 2026-06-17 | Australia | [Apply](https://visasponsor.jobs/api/jobs/8e8f3755037a4f0cba8f4230f65a79c3/SOUS-CHEF-THE-WHARF-VISA-SPONSORSHIP-AVAILABLE) |
 | Murrumbidgee Local Health District | Youth Mental Health Clinician | Charles sturt university, New south wales, | 2026-06-17 | Australia | [Apply](https://visasponsor.jobs/api/jobs/7609966e09794193ad349aa272e6d1b5/Youth-Mental-Health-Clinician) |
-| Greenstaff Medical US International | Physical Therapist (PT) - TN Visa &amp; Green Card Sponsorship Available |  | 2026-06-17 | Canada | [Apply](https://visasponsor.jobs/api/jobs/4b79190fec3c49c4bf2537a7810c0eb5/Physical-Therapist-(PT)-TN-Visa-&amp;-Green-Card-Sponsorship-Available) |
+| Greenstaff Medical US International | Physical Therapist (PT) - TN Visa &amp; Green Card Sponsorship Available | Canada | 2026-06-17 | 🌍 | [Apply](https://visasponsor.jobs/api/jobs/4b79190fec3c49c4bf2537a7810c0eb5/Physical-Therapist-(PT)-TN-Visa-&amp;-Green-Card-Sponsorship-Available) |
 | N26 | Strategy &amp; Operations Manager - Acquire | Berlin, | 2026-06-16 | Germany | [Apply](https://visasponsor.jobs/api/jobs/bed1b51e6b7740f8be922806b80fd9d4/Strategy-&amp;-Operations-Manager-Acquire) |
 | N26 | Senior Site Reliability Engineer - Software Logistics | Berlin, | 2026-06-16 | Germany | [Apply](https://visasponsor.jobs/api/jobs/14ef5250220e4463be5cec0213416e2e/Senior-Site-Reliability-Engineer-Software-Logistics) |
 | Juniper Aged Care | Registered Nurse (Visa Sponsorship Available) - Kimberley Region | Broome, Western australia, | 2026-06-15 | Australia | [Apply](https://visasponsor.jobs/api/jobs/9d93a6166d534b33b2522cc760223f36/Registered-Nurse-(Visa-Sponsorship-Available)-Kimberley-Region) |
-| BAH Partners | C++ Developers – Top-Tier Buyside Trading Firms (Open to Non-Finance - Visa Sponsorship Available) |  | 2026-06-13 | Singapore | [Apply](https://visasponsor.jobs/api/jobs/57bdd4d3920041ef8b581b80acab5498/C++-Developers-–-Top-Tier-Buyside-Trading-Firms-(Open-to-Non-Finance-Visa-Sponsorship-Available)) |
+| BAH Partners | C++ Developers – Top-Tier Buyside Trading Firms (Open to Non-Finance - Visa Sponsorship Available) | Singapore | 2026-06-13 | 🌍 | [Apply](https://visasponsor.jobs/api/jobs/57bdd4d3920041ef8b581b80acab5498/C++-Developers-–-Top-Tier-Buyside-Trading-Firms-(Open-to-Non-Finance-Visa-Sponsorship-Available)) |
 | WSP | Chinese Speaking Graduate Role (With Visa Sponsor) | United | 2026-06-07 | Kingdom | [Apply](https://visasponsor.jobs/api/jobs/2c81d6975e5e4fdea03e89690c248537/Chinese-Speaking-Graduate-Role-(With-Visa-Sponsor)) |
 | Spotify | Staff Machine Learning Engineer - Recommendation Systems | Stockholm, | June 5, 2026 | 🇸🇪 | [Apply](https://spotify.wd1.myworkdayjobs.com/External/job/Stockholm/Staff-Machine-Learning-Engineer--Recommendation-Systems_JOBID) |
 | N26 | Frontend Engineer - Web Platform | Berlin, | June 5, 2026 | 🇩🇪 | [Apply](https://n26.com/en-eu/careers/jobs/frontend-engineer-web-platform) |
 | Optiver | Head | Amsterdam, Noordholland, | June 5, 2026 | Netherlands | [Apply](https://visasponsor.jobs/api/jobs/a00ac7a947f648b4870ec28a31b8e800/Head) |
-| Catawiki | Senior Product Manager - Shipping |  | June 4, 2026 | Portugal | [Apply](https://relocate.me/portugal/lisbon/catawiki/senior-product-manager-shipping-10229) |
-| Catawiki | Senior Backend Software Engineer |  | June 4, 2026 | Portugal | [Apply](https://relocate.me/portugal/lisbon/catawiki/senior-backend-software-engineer-9677) |
-| Catawiki | Security Engineer |  | June 4, 2026 | Netherlands | [Apply](https://relocate.me/netherlands/amsterdam/catawiki/security-engineer-10249) |
-| Catawiki | QA Automation Engineer |  | June 4, 2026 | Portugal | [Apply](https://relocate.me/portugal/lisbon/catawiki/qa-automation-engineer-10215) |
-| Catawiki | Senior Software Engineer – Developer Experience (Platform) |  | June 4, 2026 | Portugal | [Apply](https://relocate.me/portugal/lisbon/catawiki/senior-software-engineer-developer-experience-platform-10254) |
-| PayPay Card | Senior Frontend Engineer |  | June 4, 2026 | Japan | [Apply](https://relocate.me/japan/tokyo/paypay-card/senior-frontend-engineer-10263) |
-| PayPay | Principal Software Engineer |  | June 4, 2026 | Japan | [Apply](https://relocate.me/japan/tokyo/paypay/principal-software-engineer-9445) |
+| Catawiki | Senior Product Manager - Shipping | Portugal | June 4, 2026 | 🌍 | [Apply](https://relocate.me/portugal/lisbon/catawiki/senior-product-manager-shipping-10229) |
+| Catawiki | Senior Backend Software Engineer | Portugal | June 4, 2026 | 🌍 | [Apply](https://relocate.me/portugal/lisbon/catawiki/senior-backend-software-engineer-9677) |
+| Catawiki | Security Engineer | Netherlands | June 4, 2026 | 🌍 | [Apply](https://relocate.me/netherlands/amsterdam/catawiki/security-engineer-10249) |
+| Catawiki | QA Automation Engineer | Portugal | June 4, 2026 | 🌍 | [Apply](https://relocate.me/portugal/lisbon/catawiki/qa-automation-engineer-10215) |
+| Catawiki | Senior Software Engineer – Developer Experience (Platform) | Portugal | June 4, 2026 | 🌍 | [Apply](https://relocate.me/portugal/lisbon/catawiki/senior-software-engineer-developer-experience-platform-10254) |
+| PayPay Card | Senior Frontend Engineer | Japan | June 4, 2026 | 🌍 | [Apply](https://relocate.me/japan/tokyo/paypay-card/senior-frontend-engineer-10263) |
+| PayPay | Principal Software Engineer | Japan | June 4, 2026 | 🌍 | [Apply](https://relocate.me/japan/tokyo/paypay/principal-software-engineer-9445) |
 | Booking.com | Staff Machine Learning Engineer - Search Ranking | Amsterdam, Netherlands | June 4, 2026 | 🇳🇱 | [Apply](https://jobs.booking.com/careers?domain=booking.com&query=machine+learning) |
 | Stripe | Software Engineer - Developer Productivity | Dublin, Ireland | June 4, 2026 | 🇮🇪 | [Apply](https://stripe.com/jobs/search?query=software+engineer&location=dublin) |
 | Stripe | Backend Engineer - Payment Methods | Dublin, Ireland | June 4, 2026 | 🇮🇪 | [Apply](https://stripe.com/jobs/search?query=backend+engineer&location=dublin) |
@@ -645,6 +651,14 @@ We encourage you to engage with the community, share helpful tips, and support o
 | adjoe | Senior Android Mobile Developer (f/m/d) | Hamburg, Germany | February 28, 2024 | 🇩🇪 | [Apply](https://adjoe.io/company/careers/?j_id=b54fe079-b5f9-41a7-b01d-5d78d3ee6644) |
 | adjoe | QA Engineer (f/m/d) | Hamburg, Germany | February 28, 2024 | 🇩🇪 | [Apply](https://adjoe.io/company/careers/?j_id=f46b07a1-4a9d-4f09-a076-56c74c3de460) |
 | justtrack | QA Engineer (f/m/d) | Hamburg, Germany | February 4, 2024 | 🇩🇪 | [Apply](https://justtrack.io/career/?j_id=2795eebb-e23f-41a6-a42f-6785cb73871e) |
+
 ---
-Last updated: Tue Sep  8 17:08:45 UTC 2026
-*Note: This list is automatically updated every day. Be sure to check back often for new job opportunities!*
+
+### 🔄 Last Updated
+
+**2026-09-08 17:18:07 UTC**
+
+> This list is automatically updated every day.  
+> Please check back regularly for new visa-sponsored job opportunities.
+
+⭐ If you find this repository useful, consider starring it and sharing it with others.
