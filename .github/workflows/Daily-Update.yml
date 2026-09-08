@@ -3,123 +3,68 @@ name: Visa-Sponsored Job Listings
 on:
   push:
     branches:
-      - main
-
-  workflow_dispatch:
-
+      - main  # Trigger on push to main branch
+  workflow_dispatch:  # Allow manual trigger
   schedule:
-    - cron: "6 12 * * *"
-
-permissions:
-  contents: write
+    - cron: '6 12 * * *'  # Run daily at 12:06 UTC
 
 jobs:
-  update-jobs:
+  generate-job-list:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
+      - name: Checkout Repository
+        uses: actions/checkout@v3
         with:
-          fetch-depth: 0
+          fetch-depth: 0  # Ensure entire history is fetched for accurate commit operations
 
-      - name: Install jq
+      - name: Fetch Latest Job Data
         run: |
-          sudo apt-get update
-          sudo apt-get install -y jq
-
-      - name: Download job data
+          # Fetch the latest job data from the external source and save as jobList.json
+          curl -s https://visajobs.xyz/db.json -o jobList.json
+      - name: Parse jobList.json and Update README
+        id: parse-json
         run: |
-          set -e
-
-          curl -fsSL \
-            https://visajobs.xyz/db.json \
-            -o jobList.json
-
-          jq empty jobList.json
-
-      - name: Generate job table
+          # Create and update the README file with a dynamic list of job opportunities
+          cat << EOF > README.md
+          # Daily List of Visa-Sponsored Job Opportunities
+          Welcome to our repository, where we provide a regularly updated list of visa-sponsored job opportunities. This list is refreshed daily to showcase the most recent job openings across various companies and locations worldwide.
+          We encourage you to engage with the community, share helpful tips, and support one another throughout the job search process. If you find this resource valuable, please consider starring the repository and sharing it with others.
+       
+          EOF
+          # Add table header for job list
+          echo "| Company | Job Title | Location | Date Posted | Flag | Application Link |" >> README.md
+          echo "| --- | --- | --- | --- | --- | --- |" >> README.md
+          # Loop through each job and append to README in markdown table format
+          jq -r '.[] | 
+            "| " + .company + 
+            " | " + .position + 
+            " | " + (.location | split(" ")[:-1] | join(" ")) + 
+            " | " + .post_date + 
+            " | " + (.location | split(" ")[-1]) + 
+            " | " + "[Apply](" + .description + ")" + 
+            " |"' jobList.json >> README.md
+          # Add last updated timestamp
+          cat << EOF >> README.md
+          ---
+          Last updated: $(date -u)
+          *Note: This list is automatically updated every day. Be sure to check back often for new job opportunities!*
+          EOF
+      - name: Commit and Push Changes (If Any)
         run: |
-          set -e
-
-          jq -r '
-            [
-              .[] |
-              {
-                company: (.company // "N/A"),
-                title: (.title // "N/A"),
-                location: ((.location // "N/A") | gsub("[\r\n]+"; " ") | gsub(" +"; " ") | .),
-                date: (.date // .posted // "N/A"),
-                country: (.country // ""),
-                url: (.url // .apply_url // .application_url // "")
-              }
-            ]
-            | .[]
-            | "| \(.company) | \(.title) | \(.location) | \(.date) | \(.country) | \(if .url != "" then "[Apply](\(.url))" else "N/A" end) |"
-          ' jobList.json > job-table.md
-
-      - name: Update README
-        run: |
-          set -e
-
-          START='<!-- JOB_LIST_START -->'
-          END='<!-- JOB_LIST_END -->'
-
-          if ! grep -qF "$START" README.md; then
-            echo "ERROR: JOB_LIST_START marker not found in README.md"
-            exit 1
-          fi
-
-          if ! grep -qF "$END" README.md; then
-            echo "ERROR: JOB_LIST_END marker not found in README.md"
-            exit 1
-          fi
-
-          python3 - <<'PY'
-          from pathlib import Path
-
-          readme = Path("README.md")
-          table = Path("job-table.md")
-
-          content = readme.read_text(encoding="utf-8")
-          job_table = table.read_text(encoding="utf-8").rstrip()
-
-          start = "<!-- JOB_LIST_START -->"
-          end = "<!-- JOB_LIST_END -->"
-
-          start_index = content.index(start) + len(start)
-          end_index = content.index(end)
-
-          new_content = (
-              content[:start_index]
-              + "\n\n"
-              + job_table
-              + "\n\n"
-              + content[end_index:]
-          )
-
-          readme.write_text(new_content, encoding="utf-8")
-          PY
-
-      - name: Check for changes
-        id: changes
-        run: |
-          if git diff --quiet -- README.md; then
-            echo "changed=false" >> "$GITHUB_OUTPUT"
-            echo "No changes detected."
-          else
-            echo "changed=true" >> "$GITHUB_OUTPUT"
-            echo "README.md has changed."
-          fi
-
-      - name: Commit and push
-        if: steps.changes.outputs.changed == 'true'
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-
+          # Configure Git settings for automated commits
+          git config user.name "Automated Workflow"
+          git config user.email "actions@users.noreply.github.com"
+          
+          # Stage changes to the README file
           git add README.md
-
-          git commit -m "chore: update visa-sponsored jobs"
-
+          # Check if there are any changes to commit
+          if git diff --cached --quiet; then
+            echo "No changes detected. Skipping commit and push."
+            exit 0
+          fi
+          # Commit and push the changes if updates are present
+          timestamp=$(date -u)
+          git commit -m "Updated job list: ${timestamp}"
+          git pull
           git push
