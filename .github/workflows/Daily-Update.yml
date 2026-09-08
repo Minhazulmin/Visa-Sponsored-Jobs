@@ -1,4 +1,3 @@
-
 name: Visa-Sponsored Job Listings
 
 on:
@@ -9,7 +8,6 @@ on:
   workflow_dispatch:
 
   schedule:
-    # Every day at 12:06 UTC (18:06 Bangladesh time)
     - cron: "6 12 * * *"
 
 permissions:
@@ -43,12 +41,11 @@ jobs:
             https://visajobs.xyz/db.json \
             -o jobList.json
 
-          echo "Job data downloaded successfully."
+          echo "Validating JSON..."
 
-          # Validate JSON
           jq empty jobList.json
 
-          echo "JSON validation successful."
+          echo "Job data downloaded successfully."
 
       # ----------------------------------------
       # Generate README
@@ -60,44 +57,38 @@ jobs:
           echo "Generating README.md..."
 
           cat > README.md <<'EOF'
-          # 🌍 Daily List of Visa-Sponsored Job Opportunities
+          # 💼 Job Opportunities
 
-          Welcome to our repository, where we provide a regularly updated list of **visa-sponsored job opportunities** from companies and locations around the world.
+          Welcome to our repository, where we provide a regularly updated list of **visa-sponsored job opportunities** from companies around the world.
 
-          This list is automatically refreshed every day with the latest available opportunities.
-
-          > 💡 **Tip:** Check the application link for each position to view the full job description and application requirements.
+          This list is automatically updated every day with the latest available opportunities.
 
           ## 💼 Job Opportunities
 
-          | Company | Job Title | Location | Date Posted | Flag | Application |
-          | :--- | :--- | :--- | :--- | :---: | :--- |
+          | Company | Job Title | Location | Date Posted | Application |
+          | :--- | :--- | :--- | :--- | :--- |
           EOF
 
           jq -r '
+            def clean:
+              tostring
+              | gsub("[\\r\\n\\t]+"; " ")
+              | gsub("  +"; " ")
+              | gsub("^ +| +$"; "");
+
+            def escape:
+              clean
+              | gsub("\\|"; "\\\\|");
+
             .[] |
             "| " +
-            (.company // "N/A" | tostring | gsub("\\|"; "\\|")) +
+            ((.company // "N/A") | escape) +
             " | " +
-            (.position // "N/A" | tostring | gsub("\\|"; "\\|")) +
+            ((.position // "N/A") | escape) +
             " | " +
-            (
-              (.location // "N/A" | tostring) |
-              if contains(" ")
-              then split(" ")[:-1] | join(" ")
-              else .
-              end
-            ) +
+            ((.location // "N/A") | escape) +
             " | " +
-            (.post_date // "N/A" | tostring) +
-            " | " +
-            (
-              (.location // "🌍" | tostring) |
-              if contains(" ")
-              then split(" ")[-1]
-              else "🌍"
-              end
-            ) +
+            ((.post_date // "N/A") | escape) +
             " | " +
             (
               if (.description // "") != ""
@@ -112,12 +103,11 @@ jobs:
 
           ---
 
-          ### 🔄 Last Updated
+          ## 🔄 Last Updated
 
           **$(date -u +"%Y-%m-%d %H:%M:%S UTC")**
 
-          > This list is automatically updated every day.  
-          > Please check back regularly for new visa-sponsored job opportunities.
+          > This list is automatically updated every day.
 
           ⭐ If you find this repository useful, consider starring it and sharing it with others.
           EOF
@@ -137,7 +127,7 @@ jobs:
           git add README.md jobList.json
 
           if git diff --cached --quiet; then
-            echo "No changes detected. Skipping commit and push."
+            echo "No changes detected."
             exit 0
           fi
 
@@ -145,7 +135,6 @@ jobs:
 
           git commit -m "Update visa-sponsored job listings: ${timestamp}"
 
-          # Make sure we are up to date before pushing
           git pull --rebase origin main
 
           git push origin main
