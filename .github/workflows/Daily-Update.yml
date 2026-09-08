@@ -8,220 +8,118 @@ on:
   workflow_dispatch:
 
   schedule:
-    - cron: "6 12 * * *" # Every day at 12:06 UTC
+    - cron: "6 12 * * *"
 
 permissions:
   contents: write
 
-concurrency:
-  group: visa-job-list-update
-  cancel-in-progress: true
-
 jobs:
-  generate-job-list:
+  update-jobs:
     runs-on: ubuntu-latest
 
     steps:
-      # --------------------------------------------------
-      # Checkout
-      # --------------------------------------------------
-      - name: Checkout Repository
+      - name: Checkout repository
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
 
-      # --------------------------------------------------
-      # Fetch latest jobs
-      # --------------------------------------------------
-      - name: Fetch Latest Job Data
+      - name: Install jq
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y jq
+
+      - name: Download job data
         run: |
           set -e
 
-          echo "Downloading latest job data..."
-
           curl -fsSL \
-            --retry 3 \
-            --retry-delay 5 \
-            --connect-timeout 15 \
-            --max-time 60 \
             https://visajobs.xyz/db.json \
             -o jobList.json
 
-          echo "Validating JSON..."
-
           jq empty jobList.json
 
-          echo "Job data successfully downloaded."
-
-      # --------------------------------------------------
-      # Generate job table
-      # --------------------------------------------------
-      - name: Generate Job Table
+      - name: Generate job table
         run: |
           set -e
 
-          JOB_TABLE="$(mktemp)"
-
-          echo "| Company | Job Title | Location | Date Posted | Flag | Application Link |" > "$JOB_TABLE"
-          echo "| --- | --- | --- | --- | --- | --- |" >> "$JOB_TABLE"
-
           jq -r '
-            def clean:
-              tostring
-              | gsub("[\\r\\n]+"; " ")
-              | gsub("[[:space:]]+"; " ")
-              | gsub("\\|"; "\\\\|")
-              | sub("^ +"; "")
-              | sub(" +$"; "");
+            [
+              .[] |
+              {
+                company: (.company // "N/A"),
+                title: (.title // "N/A"),
+                location: ((.location // "N/A") | gsub("[\r\n]+"; " ") | gsub(" +"; " ") | .),
+                date: (.date // .posted // "N/A"),
+                country: (.country // ""),
+                url: (.url // .apply_url // .application_url // "")
+              }
+            ]
+            | .[]
+            | "| \(.company) | \(.title) | \(.location) | \(.date) | \(.country) | \(if .url != "" then "[Apply](\(.url))" else "N/A" end) |"
+          ' jobList.json > job-table.md
 
-            def location:
-              (.location // "")
-              | clean;
+      - name: Update README
+        run: |
+          set -e
 
-            def country:
-              (.location // "")
-              | clean
-              | split(" ")
-              | last;
+          START='<!-- JOB_LIST_START -->'
+          END='<!-- JOB_LIST_END -->'
 
-            def city:
-              (.location // "")
-              | clean
-              | split(" ")
-              | .[:-1]
-              | join(" ");
-
-            .[]
-            |
-            "| "
-            + ((.company // "") | clean)
-            + " | "
-            + ((.position // "") | clean)
-            + " | "
-            + (city)
-            + " | "
-            + ((.post_date // "") | clean)
-            + " | "
-            + (country)
-            + " | "
-            + "[Apply]("
-            + ((.description // "") | tostring)
-            + ") |"
-          ' jobList.json >> "$JOB_TABLE"
-
-          # ------------------------------------------------
-          # Create README template if it does not exist
-          # ------------------------------------------------
-          if [ ! -f README.md ]; then
-
-            cat > README.md <<'EOF'
-          # Daily List of Visa-Sponsored Job Opportunities
-
-          Welcome to our repository, where we provide a regularly updated list of visa-sponsored job opportunities.
-
-          This list is automatically refreshed daily to showcase recent job openings across companies and locations worldwide.
-
-          We encourage you to engage with the community, share helpful tips, and support one another throughout the job search process.
-
-          If you find this resource valuable, please consider starring the repository and sharing it with others.
-
-          ## Job Opportunities
-
-          <!-- JOB_LIST_START -->
-
-          <!-- JOB_LIST_END -->
-
-          ---
-
-          **Last updated:** <!-- LAST_UPDATED -->
-
-          > This list is automatically updated every day.
-          EOF
-
-          fi
-
-          # ------------------------------------------------
-          # Make sure markers exist
-          # ------------------------------------------------
-          if ! grep -q "<!-- JOB_LIST_START -->" README.md; then
+          if ! grep -qF "$START" README.md; then
             echo "ERROR: JOB_LIST_START marker not found in README.md"
             exit 1
           fi
 
-          if ! grep -q "<!-- JOB_LIST_END -->" README.md; then
+          if ! grep -qF "$END" README.md; then
             echo "ERROR: JOB_LIST_END marker not found in README.md"
             exit 1
           fi
 
-          # ------------------------------------------------
-          # Replace ONLY the job table
-          # ------------------------------------------------
-          python3 <<'PY'
+          python3 - <<'PY'
           from pathlib import Path
 
           readme = Path("README.md")
-          job_table = Path("$JOB_TABLE").read_text()
+          table = Path("job-table.md")
 
-          content = readme.read_text()
+          content = readme.read_text(encoding="utf-8")
+          job_table = table.read_text(encoding="utf-8").rstrip()
 
-          start_marker = "<!-- JOB_LIST_START -->"
-          end_marker = "<!-- JOB_LIST_END -->"
+          start = "<!-- JOB_LIST_START -->"
+          end = "<!-- JOB_LIST_END -->"
 
-          start = content.index(start_marker) + len(start_marker)
-          end = content.index(end_marker)
+          start_index = content.index(start) + len(start)
+          end_index = content.index(end)
 
           new_content = (
-              content[:start]
+              content[:start_index]
               + "\n\n"
-              + job_table.rstrip()
+              + job_table
               + "\n\n"
-              + content[end:]
+              + content[end_index:]
           )
 
-          readme.write_text(new_content)
+          readme.write_text(new_content, encoding="utf-8")
           PY
 
-          # ------------------------------------------------
-          # Update timestamp only when job data changes
-          # ------------------------------------------------
-          CURRENT_TIME="$(date -u '+%Y-%m-%d %H:%M UTC')"
-
-          sed -i \
-            "s/\*\*Last updated:\*\* <!-- LAST_UPDATED -->/**Last updated:** $CURRENT_TIME/" \
-            README.md
-
-          rm -f "$JOB_TABLE"
-
-          echo "README generated successfully."
-
-      # --------------------------------------------------
-      # Check changes
-      # --------------------------------------------------
-      - name: Check for Changes
+      - name: Check for changes
         id: changes
         run: |
-          git add README.md
-
-          if git diff --cached --quiet; then
+          if git diff --quiet -- README.md; then
             echo "changed=false" >> "$GITHUB_OUTPUT"
             echo "No changes detected."
           else
             echo "changed=true" >> "$GITHUB_OUTPUT"
-            echo "Changes detected."
-            git diff --cached --stat
+            echo "README.md has changed."
           fi
 
-      # --------------------------------------------------
-      # Commit & Push
-      # --------------------------------------------------
-      - name: Commit and Push Changes
+      - name: Commit and push
         if: steps.changes.outputs.changed == 'true'
         run: |
-          set -e
-
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          git commit -m "chore: update visa-sponsored job listings"
+          git add README.md
 
-          git push origin HEAD:main
+          git commit -m "chore: update visa-sponsored jobs"
+
+          git push
