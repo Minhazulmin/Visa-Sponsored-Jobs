@@ -40,7 +40,6 @@ This list is automatically updated every day with the latest available opportuni
 | Anthropic | Developer Relations, Platform | San Francisco, CA, United States | 2026-11-17 | [Apply](https://job-boards.greenhouse.io/anthropic/jobs/5206870008) |
 | Anthropic | Web Strategy Lead | San Francisco, CA, United States | 2026-11-17 | [Apply](https://job-boards.greenhouse.io/anthropic/jobs/5465637008) |
 | Anthropic | Partner Marketing Manager, Cloud Partners EMEA | London, England, United Kingdom | 2026-11-17 | [Apply](https://job-boards.greenhouse.io/anthropic/jobs/5473999008) |
-| Monzo | Integrated Marketing Lead, Business Banking | Remote, Cardiff, United Kingdom | 2026-11-17 | [Apply](https://job-boards.greenhouse.io/monzo/jobs/8333519) |
 | Anthropic | Software Engineer, Datacenter Server Lifecycle | Remote, United States | 2026-11-17 | [Apply](https://job-boards.greenhouse.io/anthropic/jobs/5484171008) |
 | Anthropic | Head of PMO, Workplace | San Francisco, CA, United States | 2026-11-17 | [Apply](https://job-boards.greenhouse.io/anthropic/jobs/5482207008) |
 | Anthropic | Staff+ Software Engineer, Deployment | London, England, United Kingdom | 2026-11-17 | [Apply](https://job-boards.greenhouse.io/anthropic/jobs/5484144008) |
@@ -100,7 +99,7 @@ This list is automatically updated every day with the latest available opportuni
 
 ## 🔄 Last Updated
 
-**2026-11-21 19:04:30 UTC**
+**2026-11-22 19:27:45 UTC**
 
 > This list is automatically updated every day.
 
