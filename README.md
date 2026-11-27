@@ -37,34 +37,34 @@ This list is automatically updated every day with the latest available opportuni
 | Monzo | Lead Product Designer, Growth | Remote, Cardiff, United Kingdom | 2026-09-09 | [Apply](https://job-boards.greenhouse.io/monzo/jobs/8185694) |
 | Anthropic | Applied AI Architect, Technology Partnerships | New York, NY, United States | 2026-11-23 | [Apply](https://job-boards.greenhouse.io/anthropic/jobs/5491480008) |
 | N26 | Manager für Beschwerdeaudits | Berlin, Germany | 2026-11-09 | [Apply](https://n26.com/en-eu/careers/positions/8364763?gh_jid=8364763) |
-| Monzo | Head of Compliance Advisory - Payments and Mobile, 12 month fixed term contract | Remote, Cardiff, United Kingdom | 2026-11-26 | [Apply](https://job-boards.greenhouse.io/monzo/jobs/8419136) |
+| Monzo | Product Hiring Lead | London, United Kingdom | 2026-11-26 | [Apply](https://job-boards.greenhouse.io/monzo/jobs/8419431) |
 | Anthropic | Industry Principal, Insurance | New York, NY, United States | 2026-11-23 | [Apply](https://job-boards.greenhouse.io/anthropic/jobs/5293104008) |
 | N26 | Senior Manager Complaints Operations & Service Delivery | Madrid, Spain | 2026-11-04 | [Apply](https://n26.com/en-eu/careers/positions/8352134?gh_jid=8352134) |
-| Monzo | Social Content Manager | Remote, Cardiff, United Kingdom | 2026-11-26 | [Apply](https://job-boards.greenhouse.io/monzo/jobs/8414122) |
+| Monzo | Head of Compliance Advisory - Payments and Mobile, (12 month fixed term contract) | Remote, Cardiff, United Kingdom | 2026-11-26 | [Apply](https://job-boards.greenhouse.io/monzo/jobs/8419136) |
 | Anthropic | Software Engineer, Model-to-Product Behavior Engineering | San Francisco, CA, United States | 2026-11-23 | [Apply](https://job-boards.greenhouse.io/anthropic/jobs/5487188008) |
 | N26 | Compliance and Prevention Associate (Complaints Management) (Fluent German) | Berlin, Germany | 2026-11-03 | [Apply](https://n26.com/en-eu/careers/positions/8349423?gh_jid=8349423) |
-| Monzo | Creator Marketing Executive | Remote, Cardiff, United Kingdom | 2026-11-26 | [Apply](https://job-boards.greenhouse.io/monzo/jobs/8414096) |
+| Monzo | Social Content Manager | Remote, Cardiff, United Kingdom | 2026-11-26 | [Apply](https://job-boards.greenhouse.io/monzo/jobs/8414122) |
 | Anthropic | Program Manager, Cloud Partners | San Francisco, CA, United States | 2026-11-22 | [Apply](https://job-boards.greenhouse.io/anthropic/jobs/5491573008) |
 | N26 | Complaints Project Manager - Fluent German | Berlin, Germany | 2026-10-30 | [Apply](https://n26.com/en-eu/careers/positions/8336867?gh_jid=8336867) |
-| Monzo | Senior Software Engineer | Barcelona, Spain | 2026-11-25 | [Apply](https://job-boards.greenhouse.io/monzo/jobs/8392754) |
+| Monzo | Creator Marketing Executive | Remote, Cardiff, United Kingdom | 2026-11-26 | [Apply](https://job-boards.greenhouse.io/monzo/jobs/8414096) |
 | Anthropic | Head of Campaign Operations | San Francisco, CA, United States | 2026-11-22 | [Apply](https://job-boards.greenhouse.io/anthropic/jobs/5491578008) |
+| N26 | Senior Site Reliability Engineer - Connectivity | Berlin, Germany | 2026-10-23 | [Apply](https://n26.com/en-eu/careers/positions/8219953?gh_jid=8219953) |
+| Monzo | Senior Software Engineer | Barcelona, Spain | 2026-11-25 | [Apply](https://job-boards.greenhouse.io/monzo/jobs/8392754) |
+| Anthropic | Campaign Manager | San Francisco, CA, United States | 2026-11-22 | [Apply](https://job-boards.greenhouse.io/anthropic/jobs/5491575008) |
 | N26 | Senior Manager Business Audit \\| French Market | Paris, France | 2026-10-12 | [Apply](https://n26.com/en-eu/careers/positions/8266560?gh_jid=8266560) |
 | Monzo | Strategy & Operations Manager | Dublin, Ireland | 2026-11-23 | [Apply](https://job-boards.greenhouse.io/monzo/jobs/8411444) |
-| Anthropic | Campaign Manager | San Francisco, CA, United States | 2026-11-22 | [Apply](https://job-boards.greenhouse.io/anthropic/jobs/5491575008) |
+| Anthropic | Research Engineer, Finetuning | San Francisco, CA, United States | 2026-11-21 | [Apply](https://job-boards.greenhouse.io/anthropic/jobs/5489567008) |
 | N26 | Data Analyst - Investments | Barcelona, Spain | 2026-10-07 | [Apply](https://n26.com/en-eu/careers/positions/8203962?gh_jid=8203962) |
 | Monzo | Senior Third Party Risk Manager | Remote, London, United Kingdom | 2026-11-20 | [Apply](https://job-boards.greenhouse.io/monzo/jobs/8195253) |
-| Anthropic | Research Engineer, Finetuning | San Francisco, CA, United States | 2026-11-21 | [Apply](https://job-boards.greenhouse.io/anthropic/jobs/5489567008) |
+| Anthropic | Manager, Applied AI Architect | Seoul, South Korea | 2026-11-21 | [Apply](https://job-boards.greenhouse.io/anthropic/jobs/5480986008) |
 | N26 | Manager Business Audit \\| Spanish Market | Madrid, Spain | 2026-10-01 | [Apply](https://n26.com/en-eu/careers/positions/8239606?gh_jid=8239606) |
 | Monzo | Senior Treasury Product Control Analyst | Remote, Cardiff, United Kingdom | 2026-11-19 | [Apply](https://job-boards.greenhouse.io/monzo/jobs/8398665) |
-| Anthropic | Manager, Applied AI Architect | Seoul, South Korea | 2026-11-21 | [Apply](https://job-boards.greenhouse.io/anthropic/jobs/5480986008) |
-| N26 | Business Audit Manager | Berlin, Germany | 2026-10-01 | [Apply](https://n26.com/en-eu/careers/positions/8242571?gh_jid=8242571) |
-| Monzo | Staff Brand Designer | London, United Kingdom | 2026-11-18 | [Apply](https://job-boards.greenhouse.io/monzo/jobs/8396136) |
 
 ---
 
 ## 🔄 Last Updated
 
-**2026-11-26 21:23:49 UTC**
+**2026-11-27 21:04:30 UTC**
 
 > This list is automatically updated every day.
 
